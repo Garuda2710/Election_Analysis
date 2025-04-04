@@ -1,0 +1,701 @@
+id,raw_text,cleaned_text,created_at,sentiment_score,sentiment_label,party
+1,Great initiatives by AAP government in healthcare sector,great initiatives by aap government in healthcare sector,2025-03-11 14:04:15.269807,0.6249,Positive,AAP
+2,BJP's central policies have helped Delhi's growth,bjps central policies have helped delhis growth,2025-03-30 14:04:15.380210,0.3818,Positive,BJP
+3,BJP's development agenda for Delhi looks promising,bjps development agenda for delhi looks promising,2025-04-03 14:04:15.380210,0.4019,Positive,BJP
+4,AAP has done great work in Delhi education system #DelhiElections,aap has done great work in delhi education system,2025-03-07 14:04:15.380210,0.6249,Positive,AAP
+5,Healthcare system improvements needed in Delhi,healthcare system improvements needed in delhi,2025-03-26 14:04:15.380210,0.3182,Positive,Other
+6,BJP's central policies have helped Delhi's growth,bjps central policies have helped delhis growth,2025-04-01 14:04:15.380210,0.3818,Positive,BJP
+7,BJP's development agenda for Delhi looks promising,bjps development agenda for delhi looks promising,2025-03-17 14:04:15.380210,0.4019,Positive,BJP
+8,Great initiatives by AAP government in healthcare sector,great initiatives by aap government in healthcare sector,2025-03-30 14:04:15.380210,0.6249,Positive,AAP
+9,New infrastructure projects changing Delhi's landscape,new infrastructure projects changing delhis landscape,2025-03-27 14:04:15.380210,0.0,Neutral,Other
+10,New infrastructure projects changing Delhi's landscape,new infrastructure projects changing delhis landscape,2025-04-03 14:04:15.380210,0.0,Neutral,Other
+11,AAP has done great work in Delhi education system #DelhiElections,aap has done great work in delhi education system,2025-03-05 14:04:15.380210,0.6249,Positive,AAP
+12,BJP's infrastructure development in Delhi is commendable #DelhiElections,bjps infrastructure development in delhi is commendable,2025-03-18 14:04:15.380210,0.0,Neutral,BJP
+13,BJP's development agenda for Delhi looks promising,bjps development agenda for delhi looks promising,2025-03-15 14:04:15.380210,0.4019,Positive,BJP
+14,Disappointed with the current state of Delhi's pollution control,disappointed with the current state of delhis pollution control,2025-03-24 14:04:15.380210,-0.4767,Negative,Other
+15,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-03-23 14:04:15.380210,0.0,Neutral,Other
+16,AAP has done great work in Delhi education system #DelhiElections,aap has done great work in delhi education system,2025-03-13 14:04:15.380210,0.6249,Positive,AAP
+17,AAP has done great work in Delhi education system #DelhiElections,aap has done great work in delhi education system,2025-03-14 14:04:15.380210,0.6249,Positive,AAP
+18,New infrastructure projects changing Delhi's landscape,new infrastructure projects changing delhis landscape,2025-03-21 14:04:15.380210,0.0,Neutral,Other
+19,AAP has done great work in Delhi education system #DelhiElections,aap has done great work in delhi education system,2025-03-28 14:04:15.380210,0.6249,Positive,AAP
+20,Great initiatives by AAP government in healthcare sector,great initiatives by aap government in healthcare sector,2025-03-23 14:04:15.380210,0.6249,Positive,AAP
+21,Healthcare system improvements needed in Delhi,healthcare system improvements needed in delhi,2025-03-28 14:04:15.380210,0.3182,Positive,Other
+22,Disappointed with the current state of Delhi's pollution control,disappointed with the current state of delhis pollution control,2025-03-14 14:04:15.380210,-0.4767,Negative,Other
+23,Disappointed with the current state of Delhi's pollution control,disappointed with the current state of delhis pollution control,2025-03-14 14:04:15.380210,-0.4767,Negative,Other
+24,BJP's infrastructure development in Delhi is commendable #DelhiElections,bjps infrastructure development in delhi is commendable,2025-03-05 14:04:15.380210,0.0,Neutral,BJP
+25,BJP's infrastructure development in Delhi is commendable #DelhiElections,bjps infrastructure development in delhi is commendable,2025-04-04 14:04:15.380210,0.0,Neutral,BJP
+26,New infrastructure projects changing Delhi's landscape,new infrastructure projects changing delhis landscape,2025-03-17 14:04:15.380210,0.0,Neutral,Other
+27,Disappointed with the current state of Delhi's pollution control,disappointed with the current state of delhis pollution control,2025-03-14 14:04:15.380210,-0.4767,Negative,Other
+28,BJP's development agenda for Delhi looks promising,bjps development agenda for delhi looks promising,2025-03-14 14:04:15.380210,0.4019,Positive,BJP
+29,BJP's infrastructure development in Delhi is commendable #DelhiElections,bjps infrastructure development in delhi is commendable,2025-03-10 14:04:15.380210,0.0,Neutral,BJP
+30,BJP's development agenda for Delhi looks promising,bjps development agenda for delhi looks promising,2025-03-28 14:04:15.380210,0.4019,Positive,BJP
+31,New infrastructure projects changing Delhi's landscape,new infrastructure projects changing delhis landscape,2025-03-24 14:04:15.380210,0.0,Neutral,Other
+32,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-03-30 14:04:15.380210,0.0,Neutral,Other
+33,Disappointed with the current state of Delhi's pollution control,disappointed with the current state of delhis pollution control,2025-03-19 14:04:15.380210,-0.4767,Negative,Other
+34,Healthcare system improvements needed in Delhi,healthcare system improvements needed in delhi,2025-03-22 14:04:15.380210,0.3182,Positive,Other
+35,Disappointed with the current state of Delhi's pollution control,disappointed with the current state of delhis pollution control,2025-03-29 14:04:15.380210,-0.4767,Negative,Other
+36,BJP's infrastructure development in Delhi is commendable #DelhiElections,bjps infrastructure development in delhi is commendable,2025-03-17 14:04:15.380210,0.0,Neutral,BJP
+37,BJP's infrastructure development in Delhi is commendable #DelhiElections,bjps infrastructure development in delhi is commendable,2025-04-01 14:04:15.380210,0.0,Neutral,BJP
+38,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-03-14 14:04:15.380899,0.0,Neutral,Other
+39,BJP's central policies have helped Delhi's growth,bjps central policies have helped delhis growth,2025-04-04 14:04:15.380899,0.3818,Positive,BJP
+40,Education reforms by AAP government showing results,education reforms by aap government showing results,2025-03-23 14:04:15.380899,0.0,Neutral,AAP
+41,AAP has done great work in Delhi education system #DelhiElections,aap has done great work in delhi education system,2025-03-15 14:04:15.380923,0.6249,Positive,AAP
+42,BJP's infrastructure development in Delhi is commendable #DelhiElections,bjps infrastructure development in delhi is commendable,2025-03-09 14:04:15.388853,0.0,Neutral,BJP
+43,Great initiatives by AAP government in healthcare sector,great initiatives by aap government in healthcare sector,2025-03-07 14:04:15.388853,0.6249,Positive,AAP
+44,Education reforms by AAP government showing results,education reforms by aap government showing results,2025-03-28 14:04:15.388853,0.0,Neutral,AAP
+45,Healthcare system improvements needed in Delhi,healthcare system improvements needed in delhi,2025-03-11 14:04:15.388853,0.3182,Positive,Other
+46,BJP's development agenda for Delhi looks promising,bjps development agenda for delhi looks promising,2025-03-16 14:04:15.388920,0.4019,Positive,BJP
+47,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-03-31 14:04:15.388920,0.0,Neutral,Other
+48,BJP's central policies have helped Delhi's growth,bjps central policies have helped delhis growth,2025-04-03 14:04:15.388920,0.3818,Positive,BJP
+49,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-03-17 14:04:15.388920,0.0,Neutral,Other
+50,Disappointed with the current state of Delhi's pollution control,disappointed with the current state of delhis pollution control,2025-03-19 14:04:15.388920,-0.4767,Negative,Other
+51,Great initiatives by AAP government in healthcare sector,great initiatives by aap government in healthcare sector,2025-03-21 14:04:15.388987,0.6249,Positive,AAP
+52,Education reforms by AAP government showing results,education reforms by aap government showing results,2025-03-09 14:04:15.388987,0.0,Neutral,AAP
+53,Healthcare system improvements needed in Delhi,healthcare system improvements needed in delhi,2025-03-10 14:04:15.388987,0.3182,Positive,Other
+54,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-04-01 14:04:15.388987,0.0,Neutral,Other
+55,Education reforms by AAP government showing results,education reforms by aap government showing results,2025-03-17 14:04:15.388987,0.0,Neutral,AAP
+56,BJP's infrastructure development in Delhi is commendable #DelhiElections,bjps infrastructure development in delhi is commendable,2025-03-30 14:04:15.388987,0.0,Neutral,BJP
+57,Disappointed with the current state of Delhi's pollution control,disappointed with the current state of delhis pollution control,2025-03-18 14:04:15.388987,-0.4767,Negative,Other
+58,New infrastructure projects changing Delhi's landscape,new infrastructure projects changing delhis landscape,2025-03-30 14:04:15.388987,0.0,Neutral,Other
+59,Great initiatives by AAP government in healthcare sector,great initiatives by aap government in healthcare sector,2025-03-23 14:04:15.388987,0.6249,Positive,AAP
+60,AAP has done great work in Delhi education system #DelhiElections,aap has done great work in delhi education system,2025-03-11 14:04:15.388987,0.6249,Positive,AAP
+61,New infrastructure projects changing Delhi's landscape,new infrastructure projects changing delhis landscape,2025-03-11 14:04:15.388987,0.0,Neutral,Other
+62,BJP's development agenda for Delhi looks promising,bjps development agenda for delhi looks promising,2025-03-28 14:04:15.388987,0.4019,Positive,BJP
+63,Disappointed with the current state of Delhi's pollution control,disappointed with the current state of delhis pollution control,2025-03-25 14:04:15.388987,-0.4767,Negative,Other
+64,Education reforms by AAP government showing results,education reforms by aap government showing results,2025-03-30 14:04:15.388987,0.0,Neutral,AAP
+65,Great initiatives by AAP government in healthcare sector,great initiatives by aap government in healthcare sector,2025-03-12 14:04:15.388987,0.6249,Positive,AAP
+66,BJP's infrastructure development in Delhi is commendable #DelhiElections,bjps infrastructure development in delhi is commendable,2025-03-23 14:04:15.388987,0.0,Neutral,BJP
+67,Great initiatives by AAP government in healthcare sector,great initiatives by aap government in healthcare sector,2025-03-08 14:04:15.388987,0.6249,Positive,AAP
+68,New infrastructure projects changing Delhi's landscape,new infrastructure projects changing delhis landscape,2025-03-14 14:04:15.388987,0.0,Neutral,Other
+69,Healthcare system improvements needed in Delhi,healthcare system improvements needed in delhi,2025-03-29 14:04:15.388987,0.3182,Positive,Other
+70,Great initiatives by AAP government in healthcare sector,great initiatives by aap government in healthcare sector,2025-03-17 14:04:15.388987,0.6249,Positive,AAP
+71,BJP's central policies have helped Delhi's growth,bjps central policies have helped delhis growth,2025-03-11 14:04:15.388987,0.3818,Positive,BJP
+72,Education reforms by AAP government showing results,education reforms by aap government showing results,2025-03-12 14:04:15.388987,0.0,Neutral,AAP
+73,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-03-28 14:04:15.388987,0.0,Neutral,Other
+74,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-04-04 14:04:15.388987,0.0,Neutral,Other
+75,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-03-05 14:04:15.388987,0.0,Neutral,Other
+76,Healthcare system improvements needed in Delhi,healthcare system improvements needed in delhi,2025-03-05 14:04:15.388987,0.3182,Positive,Other
+77,BJP's development agenda for Delhi looks promising,bjps development agenda for delhi looks promising,2025-03-28 14:04:15.388987,0.4019,Positive,BJP
+78,BJP's infrastructure development in Delhi is commendable #DelhiElections,bjps infrastructure development in delhi is commendable,2025-03-24 14:04:15.388987,0.0,Neutral,BJP
+79,New infrastructure projects changing Delhi's landscape,new infrastructure projects changing delhis landscape,2025-03-27 14:04:15.388987,0.0,Neutral,Other
+80,Education reforms by AAP government showing results,education reforms by aap government showing results,2025-03-09 14:04:15.388987,0.0,Neutral,AAP
+81,Great initiatives by AAP government in healthcare sector,great initiatives by aap government in healthcare sector,2025-03-23 14:04:15.388987,0.6249,Positive,AAP
+82,Great initiatives by AAP government in healthcare sector,great initiatives by aap government in healthcare sector,2025-03-21 14:04:15.388987,0.6249,Positive,AAP
+83,BJP's development agenda for Delhi looks promising,bjps development agenda for delhi looks promising,2025-03-18 14:04:15.388987,0.4019,Positive,BJP
+84,BJP's infrastructure development in Delhi is commendable #DelhiElections,bjps infrastructure development in delhi is commendable,2025-03-14 14:04:15.388987,0.0,Neutral,BJP
+85,Great initiatives by AAP government in healthcare sector,great initiatives by aap government in healthcare sector,2025-03-08 14:04:15.388987,0.6249,Positive,AAP
+86,New infrastructure projects changing Delhi's landscape,new infrastructure projects changing delhis landscape,2025-03-10 14:04:15.388987,0.0,Neutral,Other
+87,New infrastructure projects changing Delhi's landscape,new infrastructure projects changing delhis landscape,2025-03-25 14:04:15.388987,0.0,Neutral,Other
+88,New infrastructure projects changing Delhi's landscape,new infrastructure projects changing delhis landscape,2025-04-02 14:04:15.388987,0.0,Neutral,Other
+89,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-03-19 14:04:15.388987,0.0,Neutral,Other
+90,Education reforms by AAP government showing results,education reforms by aap government showing results,2025-03-22 14:04:15.388987,0.0,Neutral,AAP
+91,Healthcare system improvements needed in Delhi,healthcare system improvements needed in delhi,2025-03-10 14:04:15.388987,0.3182,Positive,Other
+92,AAP has done great work in Delhi education system #DelhiElections,aap has done great work in delhi education system,2025-03-10 14:04:15.388987,0.6249,Positive,AAP
+93,BJP's development agenda for Delhi looks promising,bjps development agenda for delhi looks promising,2025-03-31 14:04:15.388987,0.4019,Positive,BJP
+94,Disappointed with the current state of Delhi's pollution control,disappointed with the current state of delhis pollution control,2025-03-13 14:04:15.388987,-0.4767,Negative,Other
+95,BJP's central policies have helped Delhi's growth,bjps central policies have helped delhis growth,2025-03-22 14:04:15.388987,0.3818,Positive,BJP
+96,New infrastructure projects changing Delhi's landscape,new infrastructure projects changing delhis landscape,2025-03-23 14:04:15.388987,0.0,Neutral,Other
+97,Healthcare system improvements needed in Delhi,healthcare system improvements needed in delhi,2025-03-26 14:04:15.388987,0.3182,Positive,Other
+98,BJP's development agenda for Delhi looks promising,bjps development agenda for delhi looks promising,2025-03-20 14:04:15.388987,0.4019,Positive,BJP
+99,BJP's infrastructure development in Delhi is commendable #DelhiElections,bjps infrastructure development in delhi is commendable,2025-03-31 14:04:15.388987,0.0,Neutral,BJP
+100,Great initiatives by AAP government in healthcare sector,great initiatives by aap government in healthcare sector,2025-03-31 14:04:15.388987,0.6249,Positive,AAP
+101,BJP's infrastructure development in Delhi is commendable #DelhiElections,bjps infrastructure development in delhi is commendable,2025-03-10 14:04:33.810012,0.0,Neutral,BJP
+102,BJP's central policies have helped Delhi's growth,bjps central policies have helped delhis growth,2025-04-03 14:04:33.810012,0.3818,Positive,BJP
+103,New infrastructure projects changing Delhi's landscape,new infrastructure projects changing delhis landscape,2025-03-05 14:04:33.810012,0.0,Neutral,Other
+104,Great initiatives by AAP government in healthcare sector,great initiatives by aap government in healthcare sector,2025-03-20 14:04:33.810012,0.6249,Positive,AAP
+105,BJP's development agenda for Delhi looks promising,bjps development agenda for delhi looks promising,2025-03-29 14:04:33.810012,0.4019,Positive,BJP
+106,AAP has done great work in Delhi education system #DelhiElections,aap has done great work in delhi education system,2025-04-03 14:04:33.810012,0.6249,Positive,AAP
+107,Great initiatives by AAP government in healthcare sector,great initiatives by aap government in healthcare sector,2025-03-24 14:04:33.810012,0.6249,Positive,AAP
+108,BJP's central policies have helped Delhi's growth,bjps central policies have helped delhis growth,2025-03-08 14:04:33.810012,0.3818,Positive,BJP
+109,Disappointed with the current state of Delhi's pollution control,disappointed with the current state of delhis pollution control,2025-03-20 14:04:33.810012,-0.4767,Negative,Other
+110,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-03-27 14:04:33.810012,0.0,Neutral,Other
+111,Healthcare system improvements needed in Delhi,healthcare system improvements needed in delhi,2025-03-25 14:04:33.810012,0.3182,Positive,Other
+112,Disappointed with the current state of Delhi's pollution control,disappointed with the current state of delhis pollution control,2025-03-06 14:04:33.810012,-0.4767,Negative,Other
+113,Healthcare system improvements needed in Delhi,healthcare system improvements needed in delhi,2025-03-11 14:04:33.810012,0.3182,Positive,Other
+114,BJP's infrastructure development in Delhi is commendable #DelhiElections,bjps infrastructure development in delhi is commendable,2025-03-24 14:04:33.810012,0.0,Neutral,BJP
+115,BJP's development agenda for Delhi looks promising,bjps development agenda for delhi looks promising,2025-03-28 14:04:33.810012,0.4019,Positive,BJP
+116,Disappointed with the current state of Delhi's pollution control,disappointed with the current state of delhis pollution control,2025-03-29 14:04:33.810012,-0.4767,Negative,Other
+117,BJP's development agenda for Delhi looks promising,bjps development agenda for delhi looks promising,2025-04-01 14:04:33.810012,0.4019,Positive,BJP
+118,BJP's infrastructure development in Delhi is commendable #DelhiElections,bjps infrastructure development in delhi is commendable,2025-03-30 14:04:33.810012,0.0,Neutral,BJP
+119,New infrastructure projects changing Delhi's landscape,new infrastructure projects changing delhis landscape,2025-03-27 14:04:33.810012,0.0,Neutral,Other
+120,Great initiatives by AAP government in healthcare sector,great initiatives by aap government in healthcare sector,2025-03-11 14:04:33.810012,0.6249,Positive,AAP
+121,BJP's infrastructure development in Delhi is commendable #DelhiElections,bjps infrastructure development in delhi is commendable,2025-03-21 14:04:33.810012,0.0,Neutral,BJP
+122,AAP has done great work in Delhi education system #DelhiElections,aap has done great work in delhi education system,2025-03-07 14:04:33.810012,0.6249,Positive,AAP
+123,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-04-02 14:04:33.810012,0.0,Neutral,Other
+124,BJP's central policies have helped Delhi's growth,bjps central policies have helped delhis growth,2025-03-09 14:04:33.810012,0.3818,Positive,BJP
+125,New infrastructure projects changing Delhi's landscape,new infrastructure projects changing delhis landscape,2025-03-07 14:04:33.810012,0.0,Neutral,Other
+126,AAP has done great work in Delhi education system #DelhiElections,aap has done great work in delhi education system,2025-03-15 14:04:33.810012,0.6249,Positive,AAP
+127,New infrastructure projects changing Delhi's landscape,new infrastructure projects changing delhis landscape,2025-03-25 14:04:33.810012,0.0,Neutral,Other
+128,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-03-24 14:04:33.810012,0.0,Neutral,Other
+129,BJP's infrastructure development in Delhi is commendable #DelhiElections,bjps infrastructure development in delhi is commendable,2025-03-13 14:04:33.810012,0.0,Neutral,BJP
+130,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-03-19 14:04:33.810012,0.0,Neutral,Other
+131,BJP's development agenda for Delhi looks promising,bjps development agenda for delhi looks promising,2025-03-09 14:04:33.810012,0.4019,Positive,BJP
+132,Healthcare system improvements needed in Delhi,healthcare system improvements needed in delhi,2025-04-01 14:04:33.810012,0.3182,Positive,Other
+133,Disappointed with the current state of Delhi's pollution control,disappointed with the current state of delhis pollution control,2025-03-26 14:04:33.810012,-0.4767,Negative,Other
+134,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-03-09 14:04:33.810012,0.0,Neutral,Other
+135,Healthcare system improvements needed in Delhi,healthcare system improvements needed in delhi,2025-03-19 14:04:33.810012,0.3182,Positive,Other
+136,Disappointed with the current state of Delhi's pollution control,disappointed with the current state of delhis pollution control,2025-03-28 14:04:33.810012,-0.4767,Negative,Other
+137,New infrastructure projects changing Delhi's landscape,new infrastructure projects changing delhis landscape,2025-03-20 14:04:33.810012,0.0,Neutral,Other
+138,Disappointed with the current state of Delhi's pollution control,disappointed with the current state of delhis pollution control,2025-03-09 14:04:33.810012,-0.4767,Negative,Other
+139,Great initiatives by AAP government in healthcare sector,great initiatives by aap government in healthcare sector,2025-03-16 14:04:33.810012,0.6249,Positive,AAP
+140,New infrastructure projects changing Delhi's landscape,new infrastructure projects changing delhis landscape,2025-03-26 14:04:33.810012,0.0,Neutral,Other
+141,Education reforms by AAP government showing results,education reforms by aap government showing results,2025-03-26 14:04:33.810012,0.0,Neutral,AAP
+142,AAP has done great work in Delhi education system #DelhiElections,aap has done great work in delhi education system,2025-03-25 14:04:33.810012,0.6249,Positive,AAP
+143,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-03-25 14:04:33.810012,0.0,Neutral,Other
+144,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-03-16 14:04:33.810012,0.0,Neutral,Other
+145,Education reforms by AAP government showing results,education reforms by aap government showing results,2025-03-18 14:04:33.810012,0.0,Neutral,AAP
+146,BJP's development agenda for Delhi looks promising,bjps development agenda for delhi looks promising,2025-03-28 14:04:33.810012,0.4019,Positive,BJP
+147,Great initiatives by AAP government in healthcare sector,great initiatives by aap government in healthcare sector,2025-03-29 14:04:33.810012,0.6249,Positive,AAP
+148,Disappointed with the current state of Delhi's pollution control,disappointed with the current state of delhis pollution control,2025-03-19 14:04:33.820106,-0.4767,Negative,Other
+149,AAP has done great work in Delhi education system #DelhiElections,aap has done great work in delhi education system,2025-03-23 14:04:33.820106,0.6249,Positive,AAP
+150,BJP's central policies have helped Delhi's growth,bjps central policies have helped delhis growth,2025-03-11 14:04:33.820123,0.3818,Positive,BJP
+151,Healthcare system improvements needed in Delhi,healthcare system improvements needed in delhi,2025-03-20 14:04:33.820123,0.3182,Positive,Other
+152,Education reforms by AAP government showing results,education reforms by aap government showing results,2025-03-23 14:04:33.820123,0.0,Neutral,AAP
+153,Great initiatives by AAP government in healthcare sector,great initiatives by aap government in healthcare sector,2025-03-14 14:04:33.820123,0.6249,Positive,AAP
+154,AAP has done great work in Delhi education system #DelhiElections,aap has done great work in delhi education system,2025-04-02 14:04:33.820123,0.6249,Positive,AAP
+155,Healthcare system improvements needed in Delhi,healthcare system improvements needed in delhi,2025-03-07 14:04:33.820123,0.3182,Positive,Other
+156,AAP has done great work in Delhi education system #DelhiElections,aap has done great work in delhi education system,2025-03-25 14:04:33.820123,0.6249,Positive,AAP
+157,Education reforms by AAP government showing results,education reforms by aap government showing results,2025-04-02 14:04:33.820123,0.0,Neutral,AAP
+158,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-03-27 14:04:33.820123,0.0,Neutral,Other
+159,AAP has done great work in Delhi education system #DelhiElections,aap has done great work in delhi education system,2025-03-22 14:04:33.820123,0.6249,Positive,AAP
+160,Disappointed with the current state of Delhi's pollution control,disappointed with the current state of delhis pollution control,2025-03-23 14:04:33.820123,-0.4767,Negative,Other
+161,Education reforms by AAP government showing results,education reforms by aap government showing results,2025-03-21 14:04:33.820123,0.0,Neutral,AAP
+162,Education reforms by AAP government showing results,education reforms by aap government showing results,2025-03-18 14:04:33.820123,0.0,Neutral,AAP
+163,BJP's development agenda for Delhi looks promising,bjps development agenda for delhi looks promising,2025-03-27 14:04:33.820123,0.4019,Positive,BJP
+164,New infrastructure projects changing Delhi's landscape,new infrastructure projects changing delhis landscape,2025-03-12 14:04:33.820123,0.0,Neutral,Other
+165,Education reforms by AAP government showing results,education reforms by aap government showing results,2025-03-16 14:04:33.820123,0.0,Neutral,AAP
+166,Healthcare system improvements needed in Delhi,healthcare system improvements needed in delhi,2025-03-11 14:04:33.820123,0.3182,Positive,Other
+167,Great initiatives by AAP government in healthcare sector,great initiatives by aap government in healthcare sector,2025-03-19 14:04:33.820123,0.6249,Positive,AAP
+168,AAP has done great work in Delhi education system #DelhiElections,aap has done great work in delhi education system,2025-03-06 14:04:33.820123,0.6249,Positive,AAP
+169,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-04-03 14:04:33.820123,0.0,Neutral,Other
+170,BJP's infrastructure development in Delhi is commendable #DelhiElections,bjps infrastructure development in delhi is commendable,2025-03-24 14:04:33.820123,0.0,Neutral,BJP
+171,Healthcare system improvements needed in Delhi,healthcare system improvements needed in delhi,2025-03-16 14:04:33.820123,0.3182,Positive,Other
+172,BJP's central policies have helped Delhi's growth,bjps central policies have helped delhis growth,2025-04-04 14:04:33.820123,0.3818,Positive,BJP
+173,Education reforms by AAP government showing results,education reforms by aap government showing results,2025-03-16 14:04:33.820123,0.0,Neutral,AAP
+174,BJP's central policies have helped Delhi's growth,bjps central policies have helped delhis growth,2025-03-12 14:04:33.820123,0.3818,Positive,BJP
+175,AAP has done great work in Delhi education system #DelhiElections,aap has done great work in delhi education system,2025-03-23 14:04:33.820123,0.6249,Positive,AAP
+176,AAP has done great work in Delhi education system #DelhiElections,aap has done great work in delhi education system,2025-03-20 14:04:33.820123,0.6249,Positive,AAP
+177,Education reforms by AAP government showing results,education reforms by aap government showing results,2025-03-19 14:04:33.820123,0.0,Neutral,AAP
+178,Healthcare system improvements needed in Delhi,healthcare system improvements needed in delhi,2025-03-21 14:04:33.820123,0.3182,Positive,Other
+179,Education reforms by AAP government showing results,education reforms by aap government showing results,2025-04-03 14:04:33.820123,0.0,Neutral,AAP
+180,BJP's development agenda for Delhi looks promising,bjps development agenda for delhi looks promising,2025-03-18 14:04:33.820123,0.4019,Positive,BJP
+181,Education reforms by AAP government showing results,education reforms by aap government showing results,2025-03-17 14:04:33.820123,0.0,Neutral,AAP
+182,AAP has done great work in Delhi education system #DelhiElections,aap has done great work in delhi education system,2025-03-18 14:04:33.820123,0.6249,Positive,AAP
+183,Disappointed with the current state of Delhi's pollution control,disappointed with the current state of delhis pollution control,2025-03-31 14:04:33.820123,-0.4767,Negative,Other
+184,Healthcare system improvements needed in Delhi,healthcare system improvements needed in delhi,2025-03-22 14:04:33.820123,0.3182,Positive,Other
+185,Great initiatives by AAP government in healthcare sector,great initiatives by aap government in healthcare sector,2025-03-21 14:04:33.820123,0.6249,Positive,AAP
+186,Disappointed with the current state of Delhi's pollution control,disappointed with the current state of delhis pollution control,2025-03-14 14:04:33.820123,-0.4767,Negative,Other
+187,BJP's central policies have helped Delhi's growth,bjps central policies have helped delhis growth,2025-03-23 14:04:33.820123,0.3818,Positive,BJP
+188,BJP's infrastructure development in Delhi is commendable #DelhiElections,bjps infrastructure development in delhi is commendable,2025-03-16 14:04:33.820123,0.0,Neutral,BJP
+189,BJP's infrastructure development in Delhi is commendable #DelhiElections,bjps infrastructure development in delhi is commendable,2025-03-28 14:04:33.820123,0.0,Neutral,BJP
+190,BJP's central policies have helped Delhi's growth,bjps central policies have helped delhis growth,2025-03-13 14:04:33.820123,0.3818,Positive,BJP
+191,BJP's central policies have helped Delhi's growth,bjps central policies have helped delhis growth,2025-04-01 14:04:33.820123,0.3818,Positive,BJP
+192,BJP's development agenda for Delhi looks promising,bjps development agenda for delhi looks promising,2025-03-11 14:04:33.820123,0.4019,Positive,BJP
+193,AAP has done great work in Delhi education system #DelhiElections,aap has done great work in delhi education system,2025-03-11 14:04:33.820123,0.6249,Positive,AAP
+194,BJP's development agenda for Delhi looks promising,bjps development agenda for delhi looks promising,2025-03-10 14:04:33.820123,0.4019,Positive,BJP
+195,Healthcare system improvements needed in Delhi,healthcare system improvements needed in delhi,2025-03-15 14:04:33.820123,0.3182,Positive,Other
+196,BJP's central policies have helped Delhi's growth,bjps central policies have helped delhis growth,2025-03-09 14:04:33.820123,0.3818,Positive,BJP
+197,New infrastructure projects changing Delhi's landscape,new infrastructure projects changing delhis landscape,2025-03-15 14:04:33.820123,0.0,Neutral,Other
+198,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-03-10 14:04:33.820123,0.0,Neutral,Other
+199,AAP has done great work in Delhi education system #DelhiElections,aap has done great work in delhi education system,2025-03-22 14:04:33.820123,0.6249,Positive,AAP
+200,Healthcare system improvements needed in Delhi,healthcare system improvements needed in delhi,2025-03-08 14:04:33.820123,0.3182,Positive,Other
+201,AAP's free water scheme has helped Delhi's poor,aaps free water scheme has helped delhis poor,2025-03-23 14:08:29.399579,0.0516,Positive,AAP
+202,BJP's development agenda looks promising for Delhi,bjps development agenda looks promising for delhi,2025-03-29 14:08:29.399579,0.4019,Positive,BJP
+203,Delhi's education budget shows AAP's commitment to learning,delhis education budget shows aaps commitment to learning,2025-03-18 14:08:29.399579,0.3818,Positive,AAP
+204,24x7 water supply still a dream in many Delhi areas,x water supply still a dream in many delhi areas,2025-03-16 14:08:29.408655,0.25,Positive,Other
+205,BJP pledges new super-specialty hospitals in Delhi #Healthcare,bjp pledges new superspecialty hospitals in delhi,2025-03-11 14:08:29.408655,0.0,Neutral,BJP
+206,Metro expansion under AAP government has improved connectivity,metro expansion under aap government has improved connectivity,2025-03-16 14:08:29.408655,0.4767,Positive,AAP
+207,24x7 water supply still a dream in many Delhi areas,x water supply still a dream in many delhi areas,2025-04-04 14:08:29.408655,0.25,Positive,Other
+208,Delhi's air quality remains a major concern under AAP,delhis air quality remains a major concern under aap,2025-03-31 14:08:29.408655,0.0,Neutral,AAP
+209,Education reforms showing positive results in Delhi,education reforms showing positive results in delhi,2025-03-12 14:08:29.408655,0.5574,Positive,Other
+210,BJP's infrastructure projects have reduced traffic in Delhi,bjps infrastructure projects have reduced traffic in delhi,2025-03-11 14:08:29.408655,0.0,Neutral,BJP
+211,BJP's development agenda looks promising for Delhi,bjps development agenda looks promising for delhi,2025-03-22 14:08:29.408655,0.4019,Positive,BJP
+212,BJP's development agenda looks promising for Delhi,bjps development agenda looks promising for delhi,2025-03-31 14:08:29.408655,0.4019,Positive,BJP
+213,BJP pledges new super-specialty hospitals in Delhi #Healthcare,bjp pledges new superspecialty hospitals in delhi,2025-04-04 14:08:29.408655,0.0,Neutral,BJP
+214,AAP's job fairs creating opportunities for Delhi youth,aaps job fairs creating opportunities for delhi youth,2025-03-18 14:08:29.408655,0.5859,Positive,AAP
+215,AAP's free water scheme has helped Delhi's poor,aaps free water scheme has helped delhis poor,2025-03-12 14:08:29.408655,0.0516,Positive,AAP
+216,Delhi's education budget shows AAP's commitment to learning,delhis education budget shows aaps commitment to learning,2025-03-21 14:08:29.408655,0.3818,Positive,AAP
+217,Metro expansion under AAP government has improved connectivity,metro expansion under aap government has improved connectivity,2025-03-20 14:08:29.408655,0.4767,Positive,AAP
+218,New flyovers and roads development by BJP helping Delhi,new flyovers and roads development by bjp helping delhi,2025-04-03 14:08:29.408655,0.296,Positive,BJP
+219,Mohalla clinics by AAP have revolutionized healthcare in Delhi,mohalla clinics by aap have revolutionized healthcare in delhi,2025-03-30 14:08:29.408655,0.0,Neutral,AAP
+220,Metro expansion under AAP government has improved connectivity,metro expansion under aap government has improved connectivity,2025-03-19 14:08:29.408655,0.4767,Positive,AAP
+221,Metro expansion under AAP government has improved connectivity,metro expansion under aap government has improved connectivity,2025-03-21 14:08:29.408655,0.4767,Positive,AAP
+222,BJP promises to solve Delhi's water crisis,bjp promises to solve delhis water crisis,2025-03-28 14:08:29.408655,-0.1779,Negative,BJP
+223,Need stronger measures to combat Delhi's pollution crisis,need stronger measures to combat delhis pollution crisis,2025-03-20 14:08:29.408655,-0.5994,Negative,Other
+224,BJP's central policies helping reduce Delhi pollution,bjps central policies helping reduce delhi pollution,2025-03-27 14:08:29.408655,0.296,Positive,BJP
+225,Youth employment remains a challenge in Delhi,youth employment remains a challenge in delhi,2025-03-07 14:08:29.408655,0.0772,Positive,Other
+226,CCTV installation by AAP government improving security,cctv installation by aap government improving security,2025-03-25 14:08:29.408655,0.6369,Positive,AAP
+227,BJP's development agenda looks promising for Delhi,bjps development agenda looks promising for delhi,2025-03-09 14:08:29.408655,0.4019,Positive,BJP
+228,AAP's free water scheme has helped Delhi's poor,aaps free water scheme has helped delhis poor,2025-03-27 14:08:29.408655,0.0516,Positive,AAP
+229,BJP promises more smart classrooms in Delhi schools #DelhiEducation,bjp promises more smart classrooms in delhi schools,2025-03-08 14:08:29.408655,0.6801,Positive,BJP
+230,BJP's law and order measures strengthening Delhi's safety,bjps law and order measures strengthening delhis safety,2025-03-11 14:08:29.408655,0.7184,Positive,BJP
+231,AAP's education model has transformed Delhi's government schools #DelhiElections,aaps education model has transformed delhis government schools,2025-03-19 14:08:29.408655,0.0,Neutral,AAP
+232,Education reforms showing positive results in Delhi,education reforms showing positive results in delhi,2025-03-29 14:08:29.408655,0.5574,Positive,Other
+233,Free healthcare services in Delhi need improvement,free healthcare services in delhi need improvement,2025-04-01 14:08:29.408655,0.743,Positive,Other
+234,Metro expansion under AAP government has improved connectivity,metro expansion under aap government has improved connectivity,2025-03-31 14:08:29.408655,0.4767,Positive,AAP
+235,Delhi's education budget shows AAP's commitment to learning,delhis education budget shows aaps commitment to learning,2025-03-19 14:08:29.408655,0.3818,Positive,AAP
+236,BJP pledges new super-specialty hospitals in Delhi #Healthcare,bjp pledges new superspecialty hospitals in delhi,2025-03-29 14:08:29.408655,0.0,Neutral,BJP
+237,BJP's development agenda looks promising for Delhi,bjps development agenda looks promising for delhi,2025-03-22 14:08:29.408655,0.4019,Positive,BJP
+238,24x7 water supply still a dream in many Delhi areas,x water supply still a dream in many delhi areas,2025-03-20 14:08:29.408655,0.25,Positive,Other
+239,BJP's skill development programs helping Delhi's unemployment,bjps skill development programs helping delhis unemployment,2025-03-07 14:08:29.408655,-0.1779,Negative,BJP
+240,Mohalla clinics by AAP have revolutionized healthcare in Delhi,mohalla clinics by aap have revolutionized healthcare in delhi,2025-03-05 14:08:29.408655,0.0,Neutral,AAP
+241,Delhi's education budget shows AAP's commitment to learning,delhis education budget shows aaps commitment to learning,2025-03-06 14:08:29.408655,0.3818,Positive,AAP
+242,BJP promises to solve Delhi's water crisis,bjp promises to solve delhis water crisis,2025-04-03 14:08:29.408655,-0.1779,Negative,BJP
+243,AAP's free water scheme has helped Delhi's poor,aaps free water scheme has helped delhis poor,2025-03-10 14:08:29.408655,0.0516,Positive,AAP
+244,24x7 water supply still a dream in many Delhi areas,x water supply still a dream in many delhi areas,2025-03-20 14:08:29.408655,0.25,Positive,Other
+245,Delhi's air quality remains a major concern under AAP,delhis air quality remains a major concern under aap,2025-03-16 14:08:29.408655,0.0,Neutral,AAP
+246,BJP pledges new super-specialty hospitals in Delhi #Healthcare,bjp pledges new superspecialty hospitals in delhi,2025-03-16 14:08:29.408655,0.0,Neutral,BJP
+247,24x7 water supply still a dream in many Delhi areas,x water supply still a dream in many delhi areas,2025-04-02 14:08:29.408655,0.25,Positive,Other
+248,BJP's law and order measures strengthening Delhi's safety,bjps law and order measures strengthening delhis safety,2025-03-06 14:08:29.408655,0.7184,Positive,BJP
+249,AAP's free water scheme has helped Delhi's poor,aaps free water scheme has helped delhis poor,2025-03-19 14:08:29.408655,0.0516,Positive,AAP
+250,AAP's job fairs creating opportunities for Delhi youth,aaps job fairs creating opportunities for delhi youth,2025-03-06 14:08:29.408655,0.5859,Positive,AAP
+251,Youth employment remains a challenge in Delhi,youth employment remains a challenge in delhi,2025-03-07 14:08:29.408655,0.0772,Positive,Other
+252,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-03-22 14:08:29.408655,0.0,Neutral,Other
+253,BJP's infrastructure projects have reduced traffic in Delhi,bjps infrastructure projects have reduced traffic in delhi,2025-04-01 14:08:29.408655,0.0,Neutral,BJP
+254,Healthcare system needs more funding in Delhi,healthcare system needs more funding in delhi,2025-03-20 14:08:29.408655,0.0,Neutral,Other
+255,Delhi's air quality remains a major concern under AAP,delhis air quality remains a major concern under aap,2025-03-07 14:08:29.408655,0.0,Neutral,AAP
+256,Education reforms showing positive results in Delhi,education reforms showing positive results in delhi,2025-03-22 14:08:29.408655,0.5574,Positive,Other
+257,New flyovers and roads development by BJP helping Delhi,new flyovers and roads development by bjp helping delhi,2025-03-28 14:08:29.408655,0.296,Positive,BJP
+258,Healthcare system needs more funding in Delhi,healthcare system needs more funding in delhi,2025-03-31 14:08:29.408655,0.0,Neutral,Other
+259,BJP's development agenda looks promising for Delhi,bjps development agenda looks promising for delhi,2025-03-07 14:08:29.408655,0.4019,Positive,BJP
+260,CCTV installation by AAP government improving security,cctv installation by aap government improving security,2025-03-08 14:08:29.408655,0.6369,Positive,AAP
+261,BJP's skill development programs helping Delhi's unemployment,bjps skill development programs helping delhis unemployment,2025-03-11 14:08:29.408655,-0.1779,Negative,BJP
+262,AAP's job fairs creating opportunities for Delhi youth,aaps job fairs creating opportunities for delhi youth,2025-04-03 14:08:29.408655,0.5859,Positive,AAP
+263,Healthcare system needs more funding in Delhi,healthcare system needs more funding in delhi,2025-03-17 14:08:29.408655,0.0,Neutral,Other
+264,Public transport system showing improvement under AAP,public transport system showing improvement under aap,2025-03-08 14:08:29.408655,0.4588,Positive,AAP
+265,New flyovers and roads development by BJP helping Delhi,new flyovers and roads development by bjp helping delhi,2025-03-16 14:08:29.409213,0.296,Positive,BJP
+266,Need stronger measures to combat Delhi's pollution crisis,need stronger measures to combat delhis pollution crisis,2025-03-06 14:08:29.409213,-0.5994,Negative,Other
+267,Mohalla clinics by AAP have revolutionized healthcare in Delhi,mohalla clinics by aap have revolutionized healthcare in delhi,2025-03-29 14:08:29.409265,0.0,Neutral,AAP
+268,Free healthcare services in Delhi need improvement,free healthcare services in delhi need improvement,2025-03-08 14:08:29.409265,0.743,Positive,Other
+269,Delhi's air quality remains a major concern under AAP,delhis air quality remains a major concern under aap,2025-03-29 14:08:29.409265,0.0,Neutral,AAP
+270,Healthcare system needs more funding in Delhi,healthcare system needs more funding in delhi,2025-04-04 14:08:29.409265,0.0,Neutral,Other
+271,CCTV installation by AAP government improving security,cctv installation by aap government improving security,2025-03-30 14:08:29.409265,0.6369,Positive,AAP
+272,Delhi's education budget shows AAP's commitment to learning,delhis education budget shows aaps commitment to learning,2025-03-11 14:08:29.409265,0.3818,Positive,AAP
+273,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-03-05 14:08:29.409265,0.0,Neutral,Other
+274,CCTV installation by AAP government improving security,cctv installation by aap government improving security,2025-03-19 14:08:29.409265,0.6369,Positive,AAP
+275,BJP pledges new super-specialty hospitals in Delhi #Healthcare,bjp pledges new superspecialty hospitals in delhi,2025-04-04 14:08:29.409265,0.0,Neutral,BJP
+276,BJP's central policies helping reduce Delhi pollution,bjps central policies helping reduce delhi pollution,2025-03-17 14:08:29.409265,0.296,Positive,BJP
+277,BJP's development agenda looks promising for Delhi,bjps development agenda looks promising for delhi,2025-03-29 14:08:29.409265,0.4019,Positive,BJP
+278,Women's safety in Delhi needs more attention,womens safety in delhi needs more attention,2025-03-21 14:08:29.409265,0.4215,Positive,Other
+279,Education reforms showing positive results in Delhi,education reforms showing positive results in delhi,2025-03-27 14:08:29.409265,0.5574,Positive,Other
+280,BJP's development agenda looks promising for Delhi,bjps development agenda looks promising for delhi,2025-03-06 14:08:29.409265,0.4019,Positive,BJP
+281,BJP's infrastructure projects have reduced traffic in Delhi,bjps infrastructure projects have reduced traffic in delhi,2025-03-05 14:08:29.409265,0.0,Neutral,BJP
+282,AAP's education model has transformed Delhi's government schools #DelhiElections,aaps education model has transformed delhis government schools,2025-03-12 14:08:29.409265,0.0,Neutral,AAP
+283,Public transport system showing improvement under AAP,public transport system showing improvement under aap,2025-03-30 14:08:29.409480,0.4588,Positive,AAP
+284,BJP promises to solve Delhi's water crisis,bjp promises to solve delhis water crisis,2025-03-12 14:08:29.409512,-0.1779,Negative,BJP
+285,Delhi's air quality remains a major concern under AAP,delhis air quality remains a major concern under aap,2025-04-01 14:08:29.409512,0.0,Neutral,AAP
+286,Delhi's air quality remains a major concern under AAP,delhis air quality remains a major concern under aap,2025-03-05 14:08:29.409512,0.0,Neutral,AAP
+287,Healthcare system needs more funding in Delhi,healthcare system needs more funding in delhi,2025-03-21 14:08:29.409512,0.0,Neutral,Other
+288,BJP's development agenda looks promising for Delhi,bjps development agenda looks promising for delhi,2025-03-12 14:08:29.409512,0.4019,Positive,BJP
+289,Healthcare system needs more funding in Delhi,healthcare system needs more funding in delhi,2025-03-30 14:08:29.409512,0.0,Neutral,Other
+290,Healthcare system needs more funding in Delhi,healthcare system needs more funding in delhi,2025-03-14 14:08:29.409512,0.0,Neutral,Other
+291,Need stronger measures to combat Delhi's pollution crisis,need stronger measures to combat delhis pollution crisis,2025-04-02 14:08:29.409512,-0.5994,Negative,Other
+292,New flyovers and roads development by BJP helping Delhi,new flyovers and roads development by bjp helping delhi,2025-03-31 14:08:29.409512,0.296,Positive,BJP
+293,Free healthcare services in Delhi need improvement,free healthcare services in delhi need improvement,2025-03-31 14:08:29.409512,0.743,Positive,Other
+294,BJP's law and order measures strengthening Delhi's safety,bjps law and order measures strengthening delhis safety,2025-04-04 14:08:29.409512,0.7184,Positive,BJP
+295,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-03-27 14:08:29.409512,0.0,Neutral,Other
+296,Mohalla clinics by AAP have revolutionized healthcare in Delhi,mohalla clinics by aap have revolutionized healthcare in delhi,2025-03-27 14:08:29.409512,0.0,Neutral,AAP
+297,BJP's infrastructure projects have reduced traffic in Delhi,bjps infrastructure projects have reduced traffic in delhi,2025-03-21 14:08:29.409512,0.0,Neutral,BJP
+298,Delhi's education budget shows AAP's commitment to learning,delhis education budget shows aaps commitment to learning,2025-03-29 14:08:29.409512,0.3818,Positive,AAP
+299,Metro expansion under AAP government has improved connectivity,metro expansion under aap government has improved connectivity,2025-03-05 14:08:29.409512,0.4767,Positive,AAP
+300,BJP pledges new super-specialty hospitals in Delhi #Healthcare,bjp pledges new superspecialty hospitals in delhi,2025-03-19 14:08:29.409512,0.0,Neutral,BJP
+301,Women's safety in Delhi needs more attention,womens safety in delhi needs more attention,2025-03-09 14:10:35.749392,0.4215,Positive,Other
+302,AAP's education model has transformed Delhi's government schools #DelhiElections,aaps education model has transformed delhis government schools,2025-03-15 14:10:35.749392,0.0,Neutral,AAP
+303,Women's safety in Delhi needs more attention,womens safety in delhi needs more attention,2025-03-21 14:10:35.749392,0.4215,Positive,Other
+304,AAP's free water scheme has helped Delhi's poor,aaps free water scheme has helped delhis poor,2025-03-15 14:10:35.749392,0.0516,Positive,AAP
+305,BJP's skill development programs helping Delhi's unemployment,bjps skill development programs helping delhis unemployment,2025-03-21 14:10:35.749392,-0.1779,Negative,BJP
+306,Women's safety in Delhi needs more attention,womens safety in delhi needs more attention,2025-04-04 14:10:35.749392,0.4215,Positive,Other
+307,BJP promises to solve Delhi's water crisis,bjp promises to solve delhis water crisis,2025-03-31 14:10:35.749392,-0.1779,Negative,BJP
+308,Public transport system showing improvement under AAP,public transport system showing improvement under aap,2025-03-30 14:10:35.749392,0.4588,Positive,AAP
+309,Need stronger measures to combat Delhi's pollution crisis,need stronger measures to combat delhis pollution crisis,2025-03-19 14:10:35.749392,-0.5994,Negative,Other
+310,Need stronger measures to combat Delhi's pollution crisis,need stronger measures to combat delhis pollution crisis,2025-03-12 14:10:35.749392,-0.5994,Negative,Other
+311,Delhi's air quality remains a major concern under AAP,delhis air quality remains a major concern under aap,2025-04-04 14:10:35.749392,0.0,Neutral,AAP
+312,BJP's central policies helping reduce Delhi pollution,bjps central policies helping reduce delhi pollution,2025-04-01 14:10:35.749392,0.296,Positive,BJP
+313,New flyovers and roads development by BJP helping Delhi,new flyovers and roads development by bjp helping delhi,2025-03-14 14:10:35.749392,0.296,Positive,BJP
+314,BJP's development agenda looks promising for Delhi,bjps development agenda looks promising for delhi,2025-04-03 14:10:35.749392,0.4019,Positive,BJP
+315,BJP's development agenda looks promising for Delhi,bjps development agenda looks promising for delhi,2025-03-22 14:10:35.749392,0.4019,Positive,BJP
+316,AAP's free water scheme has helped Delhi's poor,aaps free water scheme has helped delhis poor,2025-03-14 14:10:35.749392,0.0516,Positive,AAP
+317,Public transport system showing improvement under AAP,public transport system showing improvement under aap,2025-03-28 14:10:35.749392,0.4588,Positive,AAP
+318,BJP's infrastructure projects have reduced traffic in Delhi,bjps infrastructure projects have reduced traffic in delhi,2025-03-13 14:10:35.749392,0.0,Neutral,BJP
+319,Delhi's education budget shows AAP's commitment to learning,delhis education budget shows aaps commitment to learning,2025-04-02 14:10:35.749392,0.3818,Positive,AAP
+320,Education reforms showing positive results in Delhi,education reforms showing positive results in delhi,2025-03-17 14:10:35.749392,0.5574,Positive,Other
+321,BJP promises to solve Delhi's water crisis,bjp promises to solve delhis water crisis,2025-03-17 14:10:35.749392,-0.1779,Negative,BJP
+322,BJP's skill development programs helping Delhi's unemployment,bjps skill development programs helping delhis unemployment,2025-03-20 14:10:35.749392,-0.1779,Negative,BJP
+323,Metro expansion under AAP government has improved connectivity,metro expansion under aap government has improved connectivity,2025-03-31 14:10:35.749392,0.4767,Positive,AAP
+324,BJP promises to solve Delhi's water crisis,bjp promises to solve delhis water crisis,2025-03-05 14:10:35.749392,-0.1779,Negative,BJP
+325,AAP's job fairs creating opportunities for Delhi youth,aaps job fairs creating opportunities for delhi youth,2025-04-02 14:10:35.749392,0.5859,Positive,AAP
+326,Delhi's air quality remains a major concern under AAP,delhis air quality remains a major concern under aap,2025-03-25 14:10:35.749392,0.0,Neutral,AAP
+327,BJP's law and order measures strengthening Delhi's safety,bjps law and order measures strengthening delhis safety,2025-03-08 14:10:35.749392,0.7184,Positive,BJP
+328,Education reforms showing positive results in Delhi,education reforms showing positive results in delhi,2025-03-16 14:10:35.749392,0.5574,Positive,Other
+329,24x7 water supply still a dream in many Delhi areas,x water supply still a dream in many delhi areas,2025-03-27 14:10:35.749392,0.25,Positive,Other
+330,Healthcare system needs more funding in Delhi,healthcare system needs more funding in delhi,2025-03-14 14:10:35.749392,0.0,Neutral,Other
+331,BJP's law and order measures strengthening Delhi's safety,bjps law and order measures strengthening delhis safety,2025-03-15 14:10:35.749392,0.7184,Positive,BJP
+332,BJP's law and order measures strengthening Delhi's safety,bjps law and order measures strengthening delhis safety,2025-04-04 14:10:35.749392,0.7184,Positive,BJP
+333,24x7 water supply still a dream in many Delhi areas,x water supply still a dream in many delhi areas,2025-03-30 14:10:35.749392,0.25,Positive,Other
+334,CCTV installation by AAP government improving security,cctv installation by aap government improving security,2025-03-22 14:10:35.749392,0.6369,Positive,AAP
+335,BJP's infrastructure projects have reduced traffic in Delhi,bjps infrastructure projects have reduced traffic in delhi,2025-03-08 14:10:35.749392,0.0,Neutral,BJP
+336,BJP promises more smart classrooms in Delhi schools #DelhiEducation,bjp promises more smart classrooms in delhi schools,2025-04-02 14:10:35.749392,0.6801,Positive,BJP
+337,Youth employment remains a challenge in Delhi,youth employment remains a challenge in delhi,2025-04-01 14:10:35.749392,0.0772,Positive,Other
+338,24x7 water supply still a dream in many Delhi areas,x water supply still a dream in many delhi areas,2025-03-10 14:10:35.749392,0.25,Positive,Other
+339,Public transport system showing improvement under AAP,public transport system showing improvement under aap,2025-03-09 14:10:35.749392,0.4588,Positive,AAP
+340,Public transport system showing improvement under AAP,public transport system showing improvement under aap,2025-03-20 14:10:35.749392,0.4588,Positive,AAP
+341,AAP's education model has transformed Delhi's government schools #DelhiElections,aaps education model has transformed delhis government schools,2025-03-13 14:10:35.749392,0.0,Neutral,AAP
+342,BJP's infrastructure projects have reduced traffic in Delhi,bjps infrastructure projects have reduced traffic in delhi,2025-03-29 14:10:35.749392,0.0,Neutral,BJP
+343,BJP's infrastructure projects have reduced traffic in Delhi,bjps infrastructure projects have reduced traffic in delhi,2025-03-07 14:10:35.749392,0.0,Neutral,BJP
+344,BJP's law and order measures strengthening Delhi's safety,bjps law and order measures strengthening delhis safety,2025-03-24 14:10:35.749392,0.7184,Positive,BJP
+345,Delhi's air quality remains a major concern under AAP,delhis air quality remains a major concern under aap,2025-03-21 14:10:35.749392,0.0,Neutral,AAP
+346,Mohalla clinics by AAP have revolutionized healthcare in Delhi,mohalla clinics by aap have revolutionized healthcare in delhi,2025-03-18 14:10:35.749392,0.0,Neutral,AAP
+347,Education reforms showing positive results in Delhi,education reforms showing positive results in delhi,2025-03-23 14:10:35.749392,0.5574,Positive,Other
+348,Women's safety in Delhi needs more attention,womens safety in delhi needs more attention,2025-03-22 14:10:35.749392,0.4215,Positive,Other
+349,Free healthcare services in Delhi need improvement,free healthcare services in delhi need improvement,2025-03-20 14:10:35.749392,0.743,Positive,Other
+350,Delhi's education budget shows AAP's commitment to learning,delhis education budget shows aaps commitment to learning,2025-04-01 14:10:35.749392,0.3818,Positive,AAP
+351,Youth employment remains a challenge in Delhi,youth employment remains a challenge in delhi,2025-03-26 14:10:35.749392,0.0772,Positive,Other
+352,Need stronger measures to combat Delhi's pollution crisis,need stronger measures to combat delhis pollution crisis,2025-03-15 14:10:35.749392,-0.5994,Negative,Other
+353,Metro expansion under AAP government has improved connectivity,metro expansion under aap government has improved connectivity,2025-03-16 14:10:35.749392,0.4767,Positive,AAP
+354,BJP pledges new super-specialty hospitals in Delhi #Healthcare,bjp pledges new superspecialty hospitals in delhi,2025-03-31 14:10:35.749392,0.0,Neutral,BJP
+355,Women's safety in Delhi needs more attention,womens safety in delhi needs more attention,2025-03-15 14:10:35.749392,0.4215,Positive,Other
+356,24x7 water supply still a dream in many Delhi areas,x water supply still a dream in many delhi areas,2025-03-25 14:10:35.749392,0.25,Positive,Other
+357,BJP's central policies helping reduce Delhi pollution,bjps central policies helping reduce delhi pollution,2025-03-18 14:10:35.749392,0.296,Positive,BJP
+358,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-03-18 14:10:35.749392,0.0,Neutral,Other
+359,Delhi's education budget shows AAP's commitment to learning,delhis education budget shows aaps commitment to learning,2025-03-16 14:10:35.749392,0.3818,Positive,AAP
+360,CCTV installation by AAP government improving security,cctv installation by aap government improving security,2025-03-10 14:10:35.749392,0.6369,Positive,AAP
+361,BJP promises to solve Delhi's water crisis,bjp promises to solve delhis water crisis,2025-03-22 14:10:35.749392,-0.1779,Negative,BJP
+362,BJP's law and order measures strengthening Delhi's safety,bjps law and order measures strengthening delhis safety,2025-03-31 14:10:35.749392,0.7184,Positive,BJP
+363,Delhi's education budget shows AAP's commitment to learning,delhis education budget shows aaps commitment to learning,2025-03-17 14:10:35.749392,0.3818,Positive,AAP
+364,Women's safety in Delhi needs more attention,womens safety in delhi needs more attention,2025-03-05 14:10:35.749392,0.4215,Positive,Other
+365,Education reforms showing positive results in Delhi,education reforms showing positive results in delhi,2025-03-12 14:10:35.749392,0.5574,Positive,Other
+366,Women's safety in Delhi needs more attention,womens safety in delhi needs more attention,2025-03-21 14:10:35.749392,0.4215,Positive,Other
+367,Delhi's air quality remains a major concern under AAP,delhis air quality remains a major concern under aap,2025-03-13 14:10:35.749392,0.0,Neutral,AAP
+368,BJP's central policies helping reduce Delhi pollution,bjps central policies helping reduce delhi pollution,2025-04-03 14:10:35.749392,0.296,Positive,BJP
+369,Need stronger measures to combat Delhi's pollution crisis,need stronger measures to combat delhis pollution crisis,2025-03-27 14:10:35.749392,-0.5994,Negative,Other
+370,BJP's infrastructure projects have reduced traffic in Delhi,bjps infrastructure projects have reduced traffic in delhi,2025-03-10 14:10:35.749392,0.0,Neutral,BJP
+371,Need stronger measures to combat Delhi's pollution crisis,need stronger measures to combat delhis pollution crisis,2025-03-31 14:10:35.749392,-0.5994,Negative,Other
+372,AAP's education model has transformed Delhi's government schools #DelhiElections,aaps education model has transformed delhis government schools,2025-03-14 14:10:35.749392,0.0,Neutral,AAP
+373,Metro expansion under AAP government has improved connectivity,metro expansion under aap government has improved connectivity,2025-03-27 14:10:35.749392,0.4767,Positive,AAP
+374,Public transport system showing improvement under AAP,public transport system showing improvement under aap,2025-03-20 14:10:35.749392,0.4588,Positive,AAP
+375,BJP promises more smart classrooms in Delhi schools #DelhiEducation,bjp promises more smart classrooms in delhi schools,2025-03-12 14:10:35.749392,0.6801,Positive,BJP
+376,BJP pledges new super-specialty hospitals in Delhi #Healthcare,bjp pledges new superspecialty hospitals in delhi,2025-03-25 14:10:35.749392,0.0,Neutral,BJP
+377,Youth employment remains a challenge in Delhi,youth employment remains a challenge in delhi,2025-03-26 14:10:35.749392,0.0772,Positive,Other
+378,Healthcare system needs more funding in Delhi,healthcare system needs more funding in delhi,2025-03-06 14:10:35.749392,0.0,Neutral,Other
+379,Delhi's air quality remains a major concern under AAP,delhis air quality remains a major concern under aap,2025-03-28 14:10:35.749392,0.0,Neutral,AAP
+380,AAP's job fairs creating opportunities for Delhi youth,aaps job fairs creating opportunities for delhi youth,2025-03-29 14:10:35.749392,0.5859,Positive,AAP
+381,AAP's free water scheme has helped Delhi's poor,aaps free water scheme has helped delhis poor,2025-03-18 14:10:35.749392,0.0516,Positive,AAP
+382,BJP's infrastructure projects have reduced traffic in Delhi,bjps infrastructure projects have reduced traffic in delhi,2025-03-21 14:10:35.749392,0.0,Neutral,BJP
+383,BJP promises more smart classrooms in Delhi schools #DelhiEducation,bjp promises more smart classrooms in delhi schools,2025-03-14 14:10:35.749392,0.6801,Positive,BJP
+384,BJP's law and order measures strengthening Delhi's safety,bjps law and order measures strengthening delhis safety,2025-03-21 14:10:35.749392,0.7184,Positive,BJP
+385,24x7 water supply still a dream in many Delhi areas,x water supply still a dream in many delhi areas,2025-03-07 14:10:35.749392,0.25,Positive,Other
+386,Public transport system showing improvement under AAP,public transport system showing improvement under aap,2025-03-25 14:10:35.749392,0.4588,Positive,AAP
+387,BJP pledges new super-specialty hospitals in Delhi #Healthcare,bjp pledges new superspecialty hospitals in delhi,2025-03-17 14:10:35.749392,0.0,Neutral,BJP
+388,New flyovers and roads development by BJP helping Delhi,new flyovers and roads development by bjp helping delhi,2025-03-22 14:10:35.749392,0.296,Positive,BJP
+389,24x7 water supply still a dream in many Delhi areas,x water supply still a dream in many delhi areas,2025-03-08 14:10:35.749392,0.25,Positive,Other
+390,BJP's skill development programs helping Delhi's unemployment,bjps skill development programs helping delhis unemployment,2025-03-27 14:10:35.749392,-0.1779,Negative,BJP
+391,BJP's central policies helping reduce Delhi pollution,bjps central policies helping reduce delhi pollution,2025-03-19 14:10:35.749392,0.296,Positive,BJP
+392,Delhi's education budget shows AAP's commitment to learning,delhis education budget shows aaps commitment to learning,2025-03-10 14:10:35.749392,0.3818,Positive,AAP
+393,Public transport system showing improvement under AAP,public transport system showing improvement under aap,2025-03-26 14:10:35.749392,0.4588,Positive,AAP
+394,AAP's job fairs creating opportunities for Delhi youth,aaps job fairs creating opportunities for delhi youth,2025-03-30 14:10:35.749392,0.5859,Positive,AAP
+395,Mohalla clinics by AAP have revolutionized healthcare in Delhi,mohalla clinics by aap have revolutionized healthcare in delhi,2025-03-27 14:10:35.749392,0.0,Neutral,AAP
+396,Need stronger measures to combat Delhi's pollution crisis,need stronger measures to combat delhis pollution crisis,2025-03-29 14:10:35.749392,-0.5994,Negative,Other
+397,AAP's job fairs creating opportunities for Delhi youth,aaps job fairs creating opportunities for delhi youth,2025-03-23 14:10:35.749392,0.5859,Positive,AAP
+398,Delhi's education budget shows AAP's commitment to learning,delhis education budget shows aaps commitment to learning,2025-04-02 14:10:35.749392,0.3818,Positive,AAP
+399,Delhi's air quality remains a major concern under AAP,delhis air quality remains a major concern under aap,2025-03-23 14:10:35.749392,0.0,Neutral,AAP
+400,AAP's free water scheme has helped Delhi's poor,aaps free water scheme has helped delhis poor,2025-03-20 14:10:35.749392,0.0516,Positive,AAP
+401,Delhi's air quality remains a major concern under AAP,delhis air quality remains a major concern under aap,2025-04-03 14:11:14.659316,0.0,Neutral,AAP
+402,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-03-26 14:11:14.659316,0.0,Neutral,Other
+403,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-03-22 14:11:14.659316,0.0,Neutral,Other
+404,Women's safety in Delhi needs more attention,womens safety in delhi needs more attention,2025-03-08 14:11:14.659316,0.4215,Positive,Other
+405,AAP's education model has transformed Delhi's government schools #DelhiElections,aaps education model has transformed delhis government schools,2025-03-29 14:11:14.659316,0.0,Neutral,AAP
+406,Free healthcare services in Delhi need improvement,free healthcare services in delhi need improvement,2025-03-25 14:11:14.659316,0.743,Positive,Other
+407,Delhi's air quality remains a major concern under AAP,delhis air quality remains a major concern under aap,2025-03-22 14:11:14.659316,0.0,Neutral,AAP
+408,BJP's development agenda looks promising for Delhi,bjps development agenda looks promising for delhi,2025-03-29 14:11:14.659316,0.4019,Positive,BJP
+409,AAP's job fairs creating opportunities for Delhi youth,aaps job fairs creating opportunities for delhi youth,2025-03-10 14:11:14.659316,0.5859,Positive,AAP
+410,BJP's development agenda looks promising for Delhi,bjps development agenda looks promising for delhi,2025-03-21 14:11:14.659316,0.4019,Positive,BJP
+411,Metro expansion under AAP government has improved connectivity,metro expansion under aap government has improved connectivity,2025-03-15 14:11:14.659316,0.4767,Positive,AAP
+412,CCTV installation by AAP government improving security,cctv installation by aap government improving security,2025-03-10 14:11:14.659316,0.6369,Positive,AAP
+413,New flyovers and roads development by BJP helping Delhi,new flyovers and roads development by bjp helping delhi,2025-03-31 14:11:14.659316,0.296,Positive,BJP
+414,Youth employment remains a challenge in Delhi,youth employment remains a challenge in delhi,2025-03-05 14:11:14.659316,0.0772,Positive,Other
+415,BJP's development agenda looks promising for Delhi,bjps development agenda looks promising for delhi,2025-03-30 14:11:14.659316,0.4019,Positive,BJP
+416,New flyovers and roads development by BJP helping Delhi,new flyovers and roads development by bjp helping delhi,2025-03-30 14:11:14.659316,0.296,Positive,BJP
+417,BJP pledges new super-specialty hospitals in Delhi #Healthcare,bjp pledges new superspecialty hospitals in delhi,2025-03-24 14:11:14.659316,0.0,Neutral,BJP
+418,Healthcare system needs more funding in Delhi,healthcare system needs more funding in delhi,2025-03-07 14:11:14.659316,0.0,Neutral,Other
+419,24x7 water supply still a dream in many Delhi areas,x water supply still a dream in many delhi areas,2025-03-06 14:11:14.659316,0.25,Positive,Other
+420,Youth employment remains a challenge in Delhi,youth employment remains a challenge in delhi,2025-03-05 14:11:14.659316,0.0772,Positive,Other
+421,Healthcare system needs more funding in Delhi,healthcare system needs more funding in delhi,2025-03-07 14:11:14.659316,0.0,Neutral,Other
+422,Mohalla clinics by AAP have revolutionized healthcare in Delhi,mohalla clinics by aap have revolutionized healthcare in delhi,2025-04-02 14:11:14.659316,0.0,Neutral,AAP
+423,24x7 water supply still a dream in many Delhi areas,x water supply still a dream in many delhi areas,2025-04-04 14:11:14.659316,0.25,Positive,Other
+424,AAP's education model has transformed Delhi's government schools #DelhiElections,aaps education model has transformed delhis government schools,2025-03-28 14:11:14.659316,0.0,Neutral,AAP
+425,Free healthcare services in Delhi need improvement,free healthcare services in delhi need improvement,2025-03-16 14:11:14.659316,0.743,Positive,Other
+426,Free healthcare services in Delhi need improvement,free healthcare services in delhi need improvement,2025-03-30 14:11:14.659316,0.743,Positive,Other
+427,BJP pledges new super-specialty hospitals in Delhi #Healthcare,bjp pledges new superspecialty hospitals in delhi,2025-03-13 14:11:14.659316,0.0,Neutral,BJP
+428,Free healthcare services in Delhi need improvement,free healthcare services in delhi need improvement,2025-03-26 14:11:14.659316,0.743,Positive,Other
+429,AAP's free water scheme has helped Delhi's poor,aaps free water scheme has helped delhis poor,2025-03-15 14:11:14.659316,0.0516,Positive,AAP
+430,Education reforms showing positive results in Delhi,education reforms showing positive results in delhi,2025-03-07 14:11:14.659316,0.5574,Positive,Other
+431,Delhi's education budget shows AAP's commitment to learning,delhis education budget shows aaps commitment to learning,2025-03-09 14:11:14.659316,0.3818,Positive,AAP
+432,Need stronger measures to combat Delhi's pollution crisis,need stronger measures to combat delhis pollution crisis,2025-03-31 14:11:14.659316,-0.5994,Negative,Other
+433,BJP's infrastructure projects have reduced traffic in Delhi,bjps infrastructure projects have reduced traffic in delhi,2025-03-28 14:11:14.659316,0.0,Neutral,BJP
+434,24x7 water supply still a dream in many Delhi areas,x water supply still a dream in many delhi areas,2025-03-31 14:11:14.659316,0.25,Positive,Other
+435,New flyovers and roads development by BJP helping Delhi,new flyovers and roads development by bjp helping delhi,2025-03-13 14:11:14.659316,0.296,Positive,BJP
+436,Free healthcare services in Delhi need improvement,free healthcare services in delhi need improvement,2025-03-29 14:11:14.659316,0.743,Positive,Other
+437,BJP's infrastructure projects have reduced traffic in Delhi,bjps infrastructure projects have reduced traffic in delhi,2025-03-09 14:11:14.659316,0.0,Neutral,BJP
+438,Youth employment remains a challenge in Delhi,youth employment remains a challenge in delhi,2025-03-29 14:11:14.659316,0.0772,Positive,Other
+439,Public transport system showing improvement under AAP,public transport system showing improvement under aap,2025-03-19 14:11:14.659316,0.4588,Positive,AAP
+440,Delhi's education budget shows AAP's commitment to learning,delhis education budget shows aaps commitment to learning,2025-03-19 14:11:14.659316,0.3818,Positive,AAP
+441,Women's safety in Delhi needs more attention,womens safety in delhi needs more attention,2025-03-28 14:11:14.659316,0.4215,Positive,Other
+442,BJP's skill development programs helping Delhi's unemployment,bjps skill development programs helping delhis unemployment,2025-03-12 14:11:14.659316,-0.1779,Negative,BJP
+443,Youth employment remains a challenge in Delhi,youth employment remains a challenge in delhi,2025-03-10 14:11:14.659316,0.0772,Positive,Other
+444,Need stronger measures to combat Delhi's pollution crisis,need stronger measures to combat delhis pollution crisis,2025-03-14 14:11:14.659316,-0.5994,Negative,Other
+445,BJP's central policies helping reduce Delhi pollution,bjps central policies helping reduce delhi pollution,2025-04-02 14:11:14.659316,0.296,Positive,BJP
+446,CCTV installation by AAP government improving security,cctv installation by aap government improving security,2025-04-01 14:11:14.659316,0.6369,Positive,AAP
+447,Women's safety in Delhi needs more attention,womens safety in delhi needs more attention,2025-03-16 14:11:14.659316,0.4215,Positive,Other
+448,AAP's job fairs creating opportunities for Delhi youth,aaps job fairs creating opportunities for delhi youth,2025-03-31 14:11:14.659316,0.5859,Positive,AAP
+449,Public transport system showing improvement under AAP,public transport system showing improvement under aap,2025-03-08 14:11:14.659316,0.4588,Positive,AAP
+450,Delhi's air quality remains a major concern under AAP,delhis air quality remains a major concern under aap,2025-03-21 14:11:14.659316,0.0,Neutral,AAP
+451,Youth employment remains a challenge in Delhi,youth employment remains a challenge in delhi,2025-03-12 14:11:14.659316,0.0772,Positive,Other
+452,Women's safety in Delhi needs more attention,womens safety in delhi needs more attention,2025-03-22 14:11:14.659316,0.4215,Positive,Other
+453,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-03-21 14:11:14.659316,0.0,Neutral,Other
+454,Metro expansion under AAP government has improved connectivity,metro expansion under aap government has improved connectivity,2025-03-28 14:11:14.659316,0.4767,Positive,AAP
+455,Women's safety in Delhi needs more attention,womens safety in delhi needs more attention,2025-03-28 14:11:14.659316,0.4215,Positive,Other
+456,Free healthcare services in Delhi need improvement,free healthcare services in delhi need improvement,2025-04-01 14:11:14.659316,0.743,Positive,Other
+457,AAP's job fairs creating opportunities for Delhi youth,aaps job fairs creating opportunities for delhi youth,2025-03-17 14:11:14.659316,0.5859,Positive,AAP
+458,BJP's central policies helping reduce Delhi pollution,bjps central policies helping reduce delhi pollution,2025-03-14 14:11:14.659316,0.296,Positive,BJP
+459,Youth employment remains a challenge in Delhi,youth employment remains a challenge in delhi,2025-04-01 14:11:14.659316,0.0772,Positive,Other
+460,AAP's free water scheme has helped Delhi's poor,aaps free water scheme has helped delhis poor,2025-03-18 14:11:14.659316,0.0516,Positive,AAP
+461,BJP's development agenda looks promising for Delhi,bjps development agenda looks promising for delhi,2025-04-03 14:11:14.659316,0.4019,Positive,BJP
+462,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-03-28 14:11:14.659316,0.0,Neutral,Other
+463,Youth employment remains a challenge in Delhi,youth employment remains a challenge in delhi,2025-03-16 14:11:14.659316,0.0772,Positive,Other
+464,BJP promises more smart classrooms in Delhi schools #DelhiEducation,bjp promises more smart classrooms in delhi schools,2025-03-14 14:11:14.659316,0.6801,Positive,BJP
+465,24x7 water supply still a dream in many Delhi areas,x water supply still a dream in many delhi areas,2025-03-14 14:11:14.659316,0.25,Positive,Other
+466,Mohalla clinics by AAP have revolutionized healthcare in Delhi,mohalla clinics by aap have revolutionized healthcare in delhi,2025-03-08 14:11:14.659316,0.0,Neutral,AAP
+467,Need stronger measures to combat Delhi's pollution crisis,need stronger measures to combat delhis pollution crisis,2025-03-10 14:11:14.659316,-0.5994,Negative,Other
+468,AAP's job fairs creating opportunities for Delhi youth,aaps job fairs creating opportunities for delhi youth,2025-03-28 14:11:14.659316,0.5859,Positive,AAP
+469,Delhi's air quality remains a major concern under AAP,delhis air quality remains a major concern under aap,2025-04-01 14:11:14.659316,0.0,Neutral,AAP
+470,New flyovers and roads development by BJP helping Delhi,new flyovers and roads development by bjp helping delhi,2025-04-02 14:11:14.659316,0.296,Positive,BJP
+471,BJP pledges new super-specialty hospitals in Delhi #Healthcare,bjp pledges new superspecialty hospitals in delhi,2025-04-01 14:11:14.659316,0.0,Neutral,BJP
+472,Delhi's education budget shows AAP's commitment to learning,delhis education budget shows aaps commitment to learning,2025-03-20 14:11:14.659316,0.3818,Positive,AAP
+473,BJP pledges new super-specialty hospitals in Delhi #Healthcare,bjp pledges new superspecialty hospitals in delhi,2025-03-31 14:11:14.659316,0.0,Neutral,BJP
+474,BJP's central policies helping reduce Delhi pollution,bjps central policies helping reduce delhi pollution,2025-03-05 14:11:14.659316,0.296,Positive,BJP
+475,24x7 water supply still a dream in many Delhi areas,x water supply still a dream in many delhi areas,2025-03-13 14:11:14.659316,0.25,Positive,Other
+476,BJP's law and order measures strengthening Delhi's safety,bjps law and order measures strengthening delhis safety,2025-03-28 14:11:14.659316,0.7184,Positive,BJP
+477,AAP's free water scheme has helped Delhi's poor,aaps free water scheme has helped delhis poor,2025-03-24 14:11:14.659316,0.0516,Positive,AAP
+478,AAP's job fairs creating opportunities for Delhi youth,aaps job fairs creating opportunities for delhi youth,2025-04-04 14:11:14.659316,0.5859,Positive,AAP
+479,Education reforms showing positive results in Delhi,education reforms showing positive results in delhi,2025-03-07 14:11:14.659316,0.5574,Positive,Other
+480,Free healthcare services in Delhi need improvement,free healthcare services in delhi need improvement,2025-03-23 14:11:14.659316,0.743,Positive,Other
+481,Mohalla clinics by AAP have revolutionized healthcare in Delhi,mohalla clinics by aap have revolutionized healthcare in delhi,2025-03-15 14:11:14.659316,0.0,Neutral,AAP
+482,AAP's education model has transformed Delhi's government schools #DelhiElections,aaps education model has transformed delhis government schools,2025-03-30 14:11:14.659316,0.0,Neutral,AAP
+483,Metro expansion under AAP government has improved connectivity,metro expansion under aap government has improved connectivity,2025-03-28 14:11:14.659316,0.4767,Positive,AAP
+484,CCTV installation by AAP government improving security,cctv installation by aap government improving security,2025-03-13 14:11:14.659316,0.6369,Positive,AAP
+485,Delhi's education budget shows AAP's commitment to learning,delhis education budget shows aaps commitment to learning,2025-03-28 14:11:14.659316,0.3818,Positive,AAP
+486,Delhi's air quality remains a major concern under AAP,delhis air quality remains a major concern under aap,2025-03-18 14:11:14.659316,0.0,Neutral,AAP
+487,New flyovers and roads development by BJP helping Delhi,new flyovers and roads development by bjp helping delhi,2025-03-12 14:11:14.659316,0.296,Positive,BJP
+488,BJP's skill development programs helping Delhi's unemployment,bjps skill development programs helping delhis unemployment,2025-03-17 14:11:14.659316,-0.1779,Negative,BJP
+489,Healthcare system needs more funding in Delhi,healthcare system needs more funding in delhi,2025-03-30 14:11:14.659316,0.0,Neutral,Other
+490,BJP promises to solve Delhi's water crisis,bjp promises to solve delhis water crisis,2025-03-10 14:11:14.659316,-0.1779,Negative,BJP
+491,Need stronger measures to combat Delhi's pollution crisis,need stronger measures to combat delhis pollution crisis,2025-03-13 14:11:14.659316,-0.5994,Negative,Other
+492,Women's safety in Delhi needs more attention,womens safety in delhi needs more attention,2025-03-13 14:11:14.659316,0.4215,Positive,Other
+493,Public transport system showing improvement under AAP,public transport system showing improvement under aap,2025-03-24 14:11:14.659316,0.4588,Positive,AAP
+494,Delhi's education budget shows AAP's commitment to learning,delhis education budget shows aaps commitment to learning,2025-03-27 14:11:14.659316,0.3818,Positive,AAP
+495,Delhi's air quality remains a major concern under AAP,delhis air quality remains a major concern under aap,2025-04-03 14:11:14.659316,0.0,Neutral,AAP
+496,BJP's central policies helping reduce Delhi pollution,bjps central policies helping reduce delhi pollution,2025-03-17 14:11:14.659316,0.296,Positive,BJP
+497,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-03-25 14:11:14.659316,0.0,Neutral,Other
+498,Delhi's education budget shows AAP's commitment to learning,delhis education budget shows aaps commitment to learning,2025-03-12 14:11:14.659316,0.3818,Positive,AAP
+499,BJP promises more smart classrooms in Delhi schools #DelhiEducation,bjp promises more smart classrooms in delhi schools,2025-03-24 14:11:14.659316,0.6801,Positive,BJP
+500,Delhi's education budget shows AAP's commitment to learning,delhis education budget shows aaps commitment to learning,2025-03-27 14:11:14.659316,0.3818,Positive,AAP
+501,New flyovers and roads development by BJP helping Delhi,new flyovers and roads development by bjp helping delhi,2025-03-24 14:25:56.308162,0.296,Positive,BJP
+502,24x7 water supply still a dream in many Delhi areas,x water supply still a dream in many delhi areas,2025-03-05 14:25:56.318495,0.25,Positive,Other
+503,AAP's free water scheme has helped Delhi's poor,aaps free water scheme has helped delhis poor,2025-03-20 14:25:56.318495,0.0516,Positive,AAP
+504,AAP's job fairs creating opportunities for Delhi youth,aaps job fairs creating opportunities for delhi youth,2025-03-19 14:25:56.318495,0.5859,Positive,AAP
+505,Youth employment remains a challenge in Delhi,youth employment remains a challenge in delhi,2025-03-24 14:25:56.318495,0.0772,Positive,Other
+506,BJP's infrastructure projects have reduced traffic in Delhi,bjps infrastructure projects have reduced traffic in delhi,2025-03-06 14:25:56.318495,0.0,Neutral,BJP
+507,AAP's free water scheme has helped Delhi's poor,aaps free water scheme has helped delhis poor,2025-04-03 14:25:56.318495,0.0516,Positive,AAP
+508,Education reforms showing positive results in Delhi,education reforms showing positive results in delhi,2025-03-31 14:25:56.318495,0.5574,Positive,Other
+509,New flyovers and roads development by BJP helping Delhi,new flyovers and roads development by bjp helping delhi,2025-03-30 14:25:56.318495,0.296,Positive,BJP
+510,BJP's infrastructure projects have reduced traffic in Delhi,bjps infrastructure projects have reduced traffic in delhi,2025-03-14 14:25:56.318495,0.0,Neutral,BJP
+511,Need stronger measures to combat Delhi's pollution crisis,need stronger measures to combat delhis pollution crisis,2025-03-23 14:25:56.318495,-0.5994,Negative,Other
+512,Mohalla clinics by AAP have revolutionized healthcare in Delhi,mohalla clinics by aap have revolutionized healthcare in delhi,2025-03-12 14:25:56.318495,0.0,Neutral,AAP
+513,BJP pledges new super-specialty hospitals in Delhi #Healthcare,bjp pledges new superspecialty hospitals in delhi,2025-03-17 14:25:56.318495,0.0,Neutral,BJP
+514,Youth employment remains a challenge in Delhi,youth employment remains a challenge in delhi,2025-03-22 14:25:56.318495,0.0772,Positive,Other
+515,Women's safety in Delhi needs more attention,womens safety in delhi needs more attention,2025-03-13 14:25:56.318495,0.4215,Positive,Other
+516,Women's safety in Delhi needs more attention,womens safety in delhi needs more attention,2025-03-18 14:25:56.318495,0.4215,Positive,Other
+517,CCTV installation by AAP government improving security,cctv installation by aap government improving security,2025-03-19 14:25:56.318495,0.6369,Positive,AAP
+518,24x7 water supply still a dream in many Delhi areas,x water supply still a dream in many delhi areas,2025-04-04 14:25:56.318495,0.25,Positive,Other
+519,BJP's infrastructure projects have reduced traffic in Delhi,bjps infrastructure projects have reduced traffic in delhi,2025-03-13 14:25:56.318495,0.0,Neutral,BJP
+520,BJP's infrastructure projects have reduced traffic in Delhi,bjps infrastructure projects have reduced traffic in delhi,2025-03-17 14:25:56.318495,0.0,Neutral,BJP
+521,BJP's infrastructure projects have reduced traffic in Delhi,bjps infrastructure projects have reduced traffic in delhi,2025-03-21 14:25:56.318495,0.0,Neutral,BJP
+522,24x7 water supply still a dream in many Delhi areas,x water supply still a dream in many delhi areas,2025-03-17 14:25:56.318495,0.25,Positive,Other
+523,BJP promises to solve Delhi's water crisis,bjp promises to solve delhis water crisis,2025-03-23 14:25:56.318495,-0.1779,Negative,BJP
+524,Free healthcare services in Delhi need improvement,free healthcare services in delhi need improvement,2025-03-07 14:25:56.318495,0.743,Positive,Other
+525,Public transport system showing improvement under AAP,public transport system showing improvement under aap,2025-03-20 14:25:56.318495,0.4588,Positive,AAP
+526,Healthcare system needs more funding in Delhi,healthcare system needs more funding in delhi,2025-03-19 14:25:56.318495,0.0,Neutral,Other
+527,24x7 water supply still a dream in many Delhi areas,x water supply still a dream in many delhi areas,2025-03-31 14:25:56.318495,0.25,Positive,Other
+528,BJP's central policies helping reduce Delhi pollution,bjps central policies helping reduce delhi pollution,2025-03-18 14:25:56.318495,0.296,Positive,BJP
+529,New flyovers and roads development by BJP helping Delhi,new flyovers and roads development by bjp helping delhi,2025-04-03 14:25:56.318495,0.296,Positive,BJP
+530,Mohalla clinics by AAP have revolutionized healthcare in Delhi,mohalla clinics by aap have revolutionized healthcare in delhi,2025-03-23 14:25:56.318495,0.0,Neutral,AAP
+531,BJP's development agenda looks promising for Delhi,bjps development agenda looks promising for delhi,2025-03-27 14:25:56.318495,0.4019,Positive,BJP
+532,CCTV installation by AAP government improving security,cctv installation by aap government improving security,2025-04-04 14:25:56.318495,0.6369,Positive,AAP
+533,BJP's skill development programs helping Delhi's unemployment,bjps skill development programs helping delhis unemployment,2025-03-14 14:25:56.318495,-0.1779,Negative,BJP
+534,BJP's development agenda looks promising for Delhi,bjps development agenda looks promising for delhi,2025-04-04 14:25:56.318495,0.4019,Positive,BJP
+535,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-03-09 14:25:56.318495,0.0,Neutral,Other
+536,BJP promises more smart classrooms in Delhi schools #DelhiEducation,bjp promises more smart classrooms in delhi schools,2025-03-20 14:25:56.318495,0.6801,Positive,BJP
+537,CCTV installation by AAP government improving security,cctv installation by aap government improving security,2025-03-13 14:25:56.318495,0.6369,Positive,AAP
+538,Youth employment remains a challenge in Delhi,youth employment remains a challenge in delhi,2025-03-27 14:25:56.318495,0.0772,Positive,Other
+539,BJP promises more smart classrooms in Delhi schools #DelhiEducation,bjp promises more smart classrooms in delhi schools,2025-03-11 14:25:56.318495,0.6801,Positive,BJP
+540,BJP's skill development programs helping Delhi's unemployment,bjps skill development programs helping delhis unemployment,2025-03-21 14:25:56.318495,-0.1779,Negative,BJP
+541,BJP's infrastructure projects have reduced traffic in Delhi,bjps infrastructure projects have reduced traffic in delhi,2025-03-10 14:25:56.318495,0.0,Neutral,BJP
+542,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-03-21 14:25:56.318495,0.0,Neutral,Other
+543,BJP's development agenda looks promising for Delhi,bjps development agenda looks promising for delhi,2025-04-02 14:25:56.318495,0.4019,Positive,BJP
+544,BJP's central policies helping reduce Delhi pollution,bjps central policies helping reduce delhi pollution,2025-03-31 14:25:56.318495,0.296,Positive,BJP
+545,BJP's law and order measures strengthening Delhi's safety,bjps law and order measures strengthening delhis safety,2025-03-06 14:25:56.318495,0.7184,Positive,BJP
+546,AAP's education model has transformed Delhi's government schools #DelhiElections,aaps education model has transformed delhis government schools,2025-03-31 14:25:56.318495,0.0,Neutral,AAP
+547,AAP's free water scheme has helped Delhi's poor,aaps free water scheme has helped delhis poor,2025-03-27 14:25:56.318495,0.0516,Positive,AAP
+548,Mohalla clinics by AAP have revolutionized healthcare in Delhi,mohalla clinics by aap have revolutionized healthcare in delhi,2025-03-12 14:25:56.318495,0.0,Neutral,AAP
+549,Public transport system showing improvement under AAP,public transport system showing improvement under aap,2025-03-06 14:25:56.318495,0.4588,Positive,AAP
+550,Free healthcare services in Delhi need improvement,free healthcare services in delhi need improvement,2025-03-08 14:25:56.318495,0.743,Positive,Other
+551,Youth employment remains a challenge in Delhi,youth employment remains a challenge in delhi,2025-03-09 14:25:56.318495,0.0772,Positive,Other
+552,Education reforms showing positive results in Delhi,education reforms showing positive results in delhi,2025-03-17 14:25:56.318495,0.5574,Positive,Other
+553,24x7 water supply still a dream in many Delhi areas,x water supply still a dream in many delhi areas,2025-03-20 14:25:56.318495,0.25,Positive,Other
+554,Women's safety in Delhi needs more attention,womens safety in delhi needs more attention,2025-03-06 14:25:56.318495,0.4215,Positive,Other
+555,Education reforms showing positive results in Delhi,education reforms showing positive results in delhi,2025-03-29 14:25:56.318495,0.5574,Positive,Other
+556,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-03-18 14:25:56.318495,0.0,Neutral,Other
+557,Healthcare system needs more funding in Delhi,healthcare system needs more funding in delhi,2025-03-30 14:25:56.318495,0.0,Neutral,Other
+558,Metro expansion under AAP government has improved connectivity,metro expansion under aap government has improved connectivity,2025-03-27 14:25:56.318495,0.4767,Positive,AAP
+559,Public transport system showing improvement under AAP,public transport system showing improvement under aap,2025-03-24 14:25:56.318495,0.4588,Positive,AAP
+560,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-03-12 14:25:56.318495,0.0,Neutral,Other
+561,AAP's job fairs creating opportunities for Delhi youth,aaps job fairs creating opportunities for delhi youth,2025-03-14 14:25:56.318495,0.5859,Positive,AAP
+562,BJP's infrastructure projects have reduced traffic in Delhi,bjps infrastructure projects have reduced traffic in delhi,2025-03-08 14:25:56.318495,0.0,Neutral,BJP
+563,BJP's development agenda looks promising for Delhi,bjps development agenda looks promising for delhi,2025-03-21 14:25:56.318495,0.4019,Positive,BJP
+564,BJP promises to solve Delhi's water crisis,bjp promises to solve delhis water crisis,2025-04-02 14:25:56.318495,-0.1779,Negative,BJP
+565,AAP's job fairs creating opportunities for Delhi youth,aaps job fairs creating opportunities for delhi youth,2025-04-01 14:25:56.318495,0.5859,Positive,AAP
+566,Free healthcare services in Delhi need improvement,free healthcare services in delhi need improvement,2025-03-29 14:25:56.318495,0.743,Positive,Other
+567,BJP's infrastructure projects have reduced traffic in Delhi,bjps infrastructure projects have reduced traffic in delhi,2025-03-19 14:25:56.318495,0.0,Neutral,BJP
+568,Youth employment remains a challenge in Delhi,youth employment remains a challenge in delhi,2025-03-14 14:25:56.318495,0.0772,Positive,Other
+569,AAP's job fairs creating opportunities for Delhi youth,aaps job fairs creating opportunities for delhi youth,2025-03-21 14:25:56.318495,0.5859,Positive,AAP
+570,BJP's development agenda looks promising for Delhi,bjps development agenda looks promising for delhi,2025-03-10 14:25:56.318495,0.4019,Positive,BJP
+571,BJP's infrastructure projects have reduced traffic in Delhi,bjps infrastructure projects have reduced traffic in delhi,2025-03-28 14:25:56.318495,0.0,Neutral,BJP
+572,BJP's infrastructure projects have reduced traffic in Delhi,bjps infrastructure projects have reduced traffic in delhi,2025-04-01 14:25:56.318495,0.0,Neutral,BJP
+573,Delhi's education budget shows AAP's commitment to learning,delhis education budget shows aaps commitment to learning,2025-04-01 14:25:56.318495,0.3818,Positive,AAP
+574,AAP's job fairs creating opportunities for Delhi youth,aaps job fairs creating opportunities for delhi youth,2025-03-09 14:25:56.318495,0.5859,Positive,AAP
+575,BJP's central policies helping reduce Delhi pollution,bjps central policies helping reduce delhi pollution,2025-03-21 14:25:56.318495,0.296,Positive,BJP
+576,AAP's job fairs creating opportunities for Delhi youth,aaps job fairs creating opportunities for delhi youth,2025-03-19 14:25:56.318495,0.5859,Positive,AAP
+577,24x7 water supply still a dream in many Delhi areas,x water supply still a dream in many delhi areas,2025-03-11 14:25:56.318495,0.25,Positive,Other
+578,BJP's law and order measures strengthening Delhi's safety,bjps law and order measures strengthening delhis safety,2025-03-10 14:25:56.318495,0.7184,Positive,BJP
+579,BJP promises to solve Delhi's water crisis,bjp promises to solve delhis water crisis,2025-03-29 14:25:56.318495,-0.1779,Negative,BJP
+580,AAP's free water scheme has helped Delhi's poor,aaps free water scheme has helped delhis poor,2025-03-14 14:25:56.318495,0.0516,Positive,AAP
+581,24x7 water supply still a dream in many Delhi areas,x water supply still a dream in many delhi areas,2025-03-16 14:25:56.318495,0.25,Positive,Other
+582,BJP promises to solve Delhi's water crisis,bjp promises to solve delhis water crisis,2025-03-09 14:25:56.318495,-0.1779,Negative,BJP
+583,BJP's central policies helping reduce Delhi pollution,bjps central policies helping reduce delhi pollution,2025-03-16 14:25:56.318495,0.296,Positive,BJP
+584,Youth employment remains a challenge in Delhi,youth employment remains a challenge in delhi,2025-03-21 14:25:56.318495,0.0772,Positive,Other
+585,BJP promises more smart classrooms in Delhi schools #DelhiEducation,bjp promises more smart classrooms in delhi schools,2025-03-11 14:25:56.318495,0.6801,Positive,BJP
+586,BJP promises more smart classrooms in Delhi schools #DelhiEducation,bjp promises more smart classrooms in delhi schools,2025-03-09 14:25:56.318495,0.6801,Positive,BJP
+587,Women's safety in Delhi needs more attention,womens safety in delhi needs more attention,2025-03-27 14:25:56.318495,0.4215,Positive,Other
+588,AAP's free water scheme has helped Delhi's poor,aaps free water scheme has helped delhis poor,2025-04-01 14:25:56.318495,0.0516,Positive,AAP
+589,BJP's law and order measures strengthening Delhi's safety,bjps law and order measures strengthening delhis safety,2025-03-15 14:25:56.318495,0.7184,Positive,BJP
+590,BJP's development agenda looks promising for Delhi,bjps development agenda looks promising for delhi,2025-03-27 14:25:56.318495,0.4019,Positive,BJP
+591,Public transport system showing improvement under AAP,public transport system showing improvement under aap,2025-03-09 14:25:56.318495,0.4588,Positive,AAP
+592,BJP's skill development programs helping Delhi's unemployment,bjps skill development programs helping delhis unemployment,2025-03-05 14:25:56.318495,-0.1779,Negative,BJP
+593,Youth employment remains a challenge in Delhi,youth employment remains a challenge in delhi,2025-03-24 14:25:56.318495,0.0772,Positive,Other
+594,Women's safety in Delhi needs more attention,womens safety in delhi needs more attention,2025-03-13 14:25:56.318495,0.4215,Positive,Other
+595,24x7 water supply still a dream in many Delhi areas,x water supply still a dream in many delhi areas,2025-03-14 14:25:56.318495,0.25,Positive,Other
+596,Free healthcare services in Delhi need improvement,free healthcare services in delhi need improvement,2025-03-19 14:25:56.318495,0.743,Positive,Other
+597,Delhi's education budget shows AAP's commitment to learning,delhis education budget shows aaps commitment to learning,2025-03-14 14:25:56.318495,0.3818,Positive,AAP
+598,New flyovers and roads development by BJP helping Delhi,new flyovers and roads development by bjp helping delhi,2025-04-02 14:25:56.318495,0.296,Positive,BJP
+599,AAP's education model has transformed Delhi's government schools #DelhiElections,aaps education model has transformed delhis government schools,2025-03-11 14:25:56.318495,0.0,Neutral,AAP
+600,BJP's skill development programs helping Delhi's unemployment,bjps skill development programs helping delhis unemployment,2025-03-14 14:25:56.318495,-0.1779,Negative,BJP
+601,Free healthcare services in Delhi need improvement,free healthcare services in delhi need improvement,2025-03-17 14:30:09.397766,0.743,Positive,Other
+602,Education reforms showing positive results in Delhi,education reforms showing positive results in delhi,2025-03-10 14:30:09.397766,0.5574,Positive,Other
+603,Healthcare system needs more funding in Delhi,healthcare system needs more funding in delhi,2025-03-24 14:30:09.397766,0.0,Neutral,Other
+604,24x7 water supply still a dream in many Delhi areas,x water supply still a dream in many delhi areas,2025-03-12 14:30:09.397766,0.25,Positive,Other
+605,AAP's education model has transformed Delhi's government schools #DelhiElections,aaps education model has transformed delhis government schools,2025-04-01 14:30:09.397766,0.0,Neutral,AAP
+606,Healthcare system needs more funding in Delhi,healthcare system needs more funding in delhi,2025-03-11 14:30:09.397766,0.0,Neutral,Other
+607,CCTV installation by AAP government improving security,cctv installation by aap government improving security,2025-03-22 14:30:09.397766,0.6369,Positive,AAP
+608,AAP's free water scheme has helped Delhi's poor,aaps free water scheme has helped delhis poor,2025-04-03 14:30:09.397766,0.0516,Positive,AAP
+609,Need stronger measures to combat Delhi's pollution crisis,need stronger measures to combat delhis pollution crisis,2025-03-10 14:30:09.397766,-0.5994,Negative,Other
+610,24x7 water supply still a dream in many Delhi areas,x water supply still a dream in many delhi areas,2025-03-26 14:30:09.397766,0.25,Positive,Other
+611,Delhi's air quality remains a major concern under AAP,delhis air quality remains a major concern under aap,2025-04-03 14:30:09.397766,0.0,Neutral,AAP
+612,Need stronger measures to combat Delhi's pollution crisis,need stronger measures to combat delhis pollution crisis,2025-03-10 14:30:09.397766,-0.5994,Negative,Other
+613,BJP pledges new super-specialty hospitals in Delhi #Healthcare,bjp pledges new superspecialty hospitals in delhi,2025-03-20 14:30:09.397766,0.0,Neutral,BJP
+614,Public transport system showing improvement under AAP,public transport system showing improvement under aap,2025-03-15 14:30:09.397766,0.4588,Positive,AAP
+615,Women's safety in Delhi needs more attention,womens safety in delhi needs more attention,2025-03-23 14:30:09.397766,0.4215,Positive,Other
+616,Women's safety in Delhi needs more attention,womens safety in delhi needs more attention,2025-03-24 14:30:09.397766,0.4215,Positive,Other
+617,BJP promises more smart classrooms in Delhi schools #DelhiEducation,bjp promises more smart classrooms in delhi schools,2025-03-13 14:30:09.397766,0.6801,Positive,BJP
+618,BJP pledges new super-specialty hospitals in Delhi #Healthcare,bjp pledges new superspecialty hospitals in delhi,2025-03-24 14:30:09.397766,0.0,Neutral,BJP
+619,Youth employment remains a challenge in Delhi,youth employment remains a challenge in delhi,2025-03-30 14:30:09.397766,0.0772,Positive,Other
+620,BJP's law and order measures strengthening Delhi's safety,bjps law and order measures strengthening delhis safety,2025-03-30 14:30:09.397766,0.7184,Positive,BJP
+621,Need stronger measures to combat Delhi's pollution crisis,need stronger measures to combat delhis pollution crisis,2025-03-29 14:30:09.397766,-0.5994,Negative,Other
+622,BJP's central policies helping reduce Delhi pollution,bjps central policies helping reduce delhi pollution,2025-03-11 14:30:09.397766,0.296,Positive,BJP
+623,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-03-15 14:30:09.397766,0.0,Neutral,Other
+624,AAP's free water scheme has helped Delhi's poor,aaps free water scheme has helped delhis poor,2025-03-29 14:30:09.397766,0.0516,Positive,AAP
+625,BJP's central policies helping reduce Delhi pollution,bjps central policies helping reduce delhi pollution,2025-03-15 14:30:09.397766,0.296,Positive,BJP
+626,Education reforms showing positive results in Delhi,education reforms showing positive results in delhi,2025-03-28 14:30:09.397766,0.5574,Positive,Other
+627,Healthcare system needs more funding in Delhi,healthcare system needs more funding in delhi,2025-03-20 14:30:09.397766,0.0,Neutral,Other
+628,Education reforms showing positive results in Delhi,education reforms showing positive results in delhi,2025-03-18 14:30:09.397766,0.5574,Positive,Other
+629,BJP's development agenda looks promising for Delhi,bjps development agenda looks promising for delhi,2025-04-04 14:30:09.397766,0.4019,Positive,BJP
+630,BJP's skill development programs helping Delhi's unemployment,bjps skill development programs helping delhis unemployment,2025-03-13 14:30:09.397766,-0.1779,Negative,BJP
+631,BJP's central policies helping reduce Delhi pollution,bjps central policies helping reduce delhi pollution,2025-03-30 14:30:09.397766,0.296,Positive,BJP
+632,Education reforms showing positive results in Delhi,education reforms showing positive results in delhi,2025-03-15 14:30:09.397766,0.5574,Positive,Other
+633,BJP's infrastructure projects have reduced traffic in Delhi,bjps infrastructure projects have reduced traffic in delhi,2025-03-15 14:30:09.397766,0.0,Neutral,BJP
+634,BJP promises to solve Delhi's water crisis,bjp promises to solve delhis water crisis,2025-03-21 14:30:09.397766,-0.1779,Negative,BJP
+635,New flyovers and roads development by BJP helping Delhi,new flyovers and roads development by bjp helping delhi,2025-03-20 14:30:09.397766,0.296,Positive,BJP
+636,Education reforms showing positive results in Delhi,education reforms showing positive results in delhi,2025-04-02 14:30:09.397766,0.5574,Positive,Other
+637,BJP promises to solve Delhi's water crisis,bjp promises to solve delhis water crisis,2025-03-12 14:30:09.397766,-0.1779,Negative,BJP
+638,BJP's central policies helping reduce Delhi pollution,bjps central policies helping reduce delhi pollution,2025-03-21 14:30:09.397766,0.296,Positive,BJP
+639,24x7 water supply still a dream in many Delhi areas,x water supply still a dream in many delhi areas,2025-03-19 14:30:09.397766,0.25,Positive,Other
+640,New flyovers and roads development by BJP helping Delhi,new flyovers and roads development by bjp helping delhi,2025-03-18 14:30:09.397766,0.296,Positive,BJP
+641,Free healthcare services in Delhi need improvement,free healthcare services in delhi need improvement,2025-03-26 14:30:09.397766,0.743,Positive,Other
+642,BJP pledges new super-specialty hospitals in Delhi #Healthcare,bjp pledges new superspecialty hospitals in delhi,2025-04-03 14:30:09.397766,0.0,Neutral,BJP
+643,BJP's law and order measures strengthening Delhi's safety,bjps law and order measures strengthening delhis safety,2025-03-25 14:30:09.397766,0.7184,Positive,BJP
+644,BJP's central policies helping reduce Delhi pollution,bjps central policies helping reduce delhi pollution,2025-04-04 14:30:09.397766,0.296,Positive,BJP
+645,Education reforms showing positive results in Delhi,education reforms showing positive results in delhi,2025-03-30 14:30:09.397766,0.5574,Positive,Other
+646,24x7 water supply still a dream in many Delhi areas,x water supply still a dream in many delhi areas,2025-03-21 14:30:09.397766,0.25,Positive,Other
+647,BJP promises more smart classrooms in Delhi schools #DelhiEducation,bjp promises more smart classrooms in delhi schools,2025-03-20 14:30:09.397766,0.6801,Positive,BJP
+648,BJP promises to solve Delhi's water crisis,bjp promises to solve delhis water crisis,2025-03-30 14:30:09.397766,-0.1779,Negative,BJP
+649,BJP pledges new super-specialty hospitals in Delhi #Healthcare,bjp pledges new superspecialty hospitals in delhi,2025-03-18 14:30:09.397766,0.0,Neutral,BJP
+650,BJP's infrastructure projects have reduced traffic in Delhi,bjps infrastructure projects have reduced traffic in delhi,2025-03-24 14:30:09.397766,0.0,Neutral,BJP
+651,Delhi's education budget shows AAP's commitment to learning,delhis education budget shows aaps commitment to learning,2025-03-11 14:30:09.397766,0.3818,Positive,AAP
+652,Delhi's education budget shows AAP's commitment to learning,delhis education budget shows aaps commitment to learning,2025-03-14 14:30:09.397766,0.3818,Positive,AAP
+653,CCTV installation by AAP government improving security,cctv installation by aap government improving security,2025-03-13 14:30:09.397766,0.6369,Positive,AAP
+654,24x7 water supply still a dream in many Delhi areas,x water supply still a dream in many delhi areas,2025-03-14 14:30:09.397766,0.25,Positive,Other
+655,Metro expansion under AAP government has improved connectivity,metro expansion under aap government has improved connectivity,2025-03-12 14:30:09.397766,0.4767,Positive,AAP
+656,New flyovers and roads development by BJP helping Delhi,new flyovers and roads development by bjp helping delhi,2025-03-22 14:30:09.397766,0.296,Positive,BJP
+657,Women's safety in Delhi needs more attention,womens safety in delhi needs more attention,2025-04-02 14:30:09.397766,0.4215,Positive,Other
+658,BJP promises more smart classrooms in Delhi schools #DelhiEducation,bjp promises more smart classrooms in delhi schools,2025-03-31 14:30:09.397766,0.6801,Positive,BJP
+659,BJP promises to solve Delhi's water crisis,bjp promises to solve delhis water crisis,2025-03-25 14:30:09.397766,-0.1779,Negative,BJP
+660,Delhi's air quality remains a major concern under AAP,delhis air quality remains a major concern under aap,2025-03-17 14:30:09.397766,0.0,Neutral,AAP
+661,BJP pledges new super-specialty hospitals in Delhi #Healthcare,bjp pledges new superspecialty hospitals in delhi,2025-03-30 14:30:09.397766,0.0,Neutral,BJP
+662,Healthcare system needs more funding in Delhi,healthcare system needs more funding in delhi,2025-03-30 14:30:09.397766,0.0,Neutral,Other
+663,Education reforms showing positive results in Delhi,education reforms showing positive results in delhi,2025-03-31 14:30:09.397766,0.5574,Positive,Other
+664,Delhi's education budget shows AAP's commitment to learning,delhis education budget shows aaps commitment to learning,2025-03-08 14:30:09.397766,0.3818,Positive,AAP
+665,AAP's job fairs creating opportunities for Delhi youth,aaps job fairs creating opportunities for delhi youth,2025-03-23 14:30:09.397766,0.5859,Positive,AAP
+666,Youth employment remains a challenge in Delhi,youth employment remains a challenge in delhi,2025-04-02 14:30:09.397766,0.0772,Positive,Other
+667,BJP promises to solve Delhi's water crisis,bjp promises to solve delhis water crisis,2025-03-08 14:30:09.397766,-0.1779,Negative,BJP
+668,BJP promises to solve Delhi's water crisis,bjp promises to solve delhis water crisis,2025-03-05 14:30:09.397766,-0.1779,Negative,BJP
+669,AAP's free water scheme has helped Delhi's poor,aaps free water scheme has helped delhis poor,2025-03-23 14:30:09.397766,0.0516,Positive,AAP
+670,BJP pledges new super-specialty hospitals in Delhi #Healthcare,bjp pledges new superspecialty hospitals in delhi,2025-03-17 14:30:09.397766,0.0,Neutral,BJP
+671,BJP's central policies helping reduce Delhi pollution,bjps central policies helping reduce delhi pollution,2025-03-28 14:30:09.397766,0.296,Positive,BJP
+672,Public transport system showing improvement under AAP,public transport system showing improvement under aap,2025-03-20 14:30:09.397766,0.4588,Positive,AAP
+673,Delhi's air quality remains a major concern under AAP,delhis air quality remains a major concern under aap,2025-03-19 14:30:09.397766,0.0,Neutral,AAP
+674,Traffic situation in Delhi needs immediate attention,traffic situation in delhi needs immediate attention,2025-03-05 14:30:09.397766,0.0,Neutral,Other
+675,Delhi's air quality remains a major concern under AAP,delhis air quality remains a major concern under aap,2025-03-30 14:30:09.397766,0.0,Neutral,AAP
+676,AAP's free water scheme has helped Delhi's poor,aaps free water scheme has helped delhis poor,2025-03-22 14:30:09.397766,0.0516,Positive,AAP
+677,Youth employment remains a challenge in Delhi,youth employment remains a challenge in delhi,2025-03-28 14:30:09.397766,0.0772,Positive,Other
+678,BJP pledges new super-specialty hospitals in Delhi #Healthcare,bjp pledges new superspecialty hospitals in delhi,2025-03-20 14:30:09.397766,0.0,Neutral,BJP
+679,Delhi's air quality remains a major concern under AAP,delhis air quality remains a major concern under aap,2025-03-11 14:30:09.397766,0.0,Neutral,AAP
+680,BJP's infrastructure projects have reduced traffic in Delhi,bjps infrastructure projects have reduced traffic in delhi,2025-03-12 14:30:09.397766,0.0,Neutral,BJP
+681,Women's safety in Delhi needs more attention,womens safety in delhi needs more attention,2025-04-02 14:30:09.397766,0.4215,Positive,Other
+682,AAP's job fairs creating opportunities for Delhi youth,aaps job fairs creating opportunities for delhi youth,2025-03-27 14:30:09.397766,0.5859,Positive,AAP
+683,Mohalla clinics by AAP have revolutionized healthcare in Delhi,mohalla clinics by aap have revolutionized healthcare in delhi,2025-03-17 14:30:09.397766,0.0,Neutral,AAP
+684,New flyovers and roads development by BJP helping Delhi,new flyovers and roads development by bjp helping delhi,2025-03-15 14:30:09.397766,0.296,Positive,BJP
+685,Mohalla clinics by AAP have revolutionized healthcare in Delhi,mohalla clinics by aap have revolutionized healthcare in delhi,2025-03-17 14:30:09.397766,0.0,Neutral,AAP
+686,AAP's education model has transformed Delhi's government schools #DelhiElections,aaps education model has transformed delhis government schools,2025-03-24 14:30:09.397766,0.0,Neutral,AAP
+687,BJP's central policies helping reduce Delhi pollution,bjps central policies helping reduce delhi pollution,2025-03-28 14:30:09.397766,0.296,Positive,BJP
+688,Women's safety in Delhi needs more attention,womens safety in delhi needs more attention,2025-03-24 14:30:09.397766,0.4215,Positive,Other
+689,Healthcare system needs more funding in Delhi,healthcare system needs more funding in delhi,2025-03-17 14:30:09.397766,0.0,Neutral,Other
+690,BJP's central policies helping reduce Delhi pollution,bjps central policies helping reduce delhi pollution,2025-03-08 14:30:09.397766,0.296,Positive,BJP
+691,24x7 water supply still a dream in many Delhi areas,x water supply still a dream in many delhi areas,2025-03-05 14:30:09.397766,0.25,Positive,Other
+692,Youth employment remains a challenge in Delhi,youth employment remains a challenge in delhi,2025-03-19 14:30:09.397766,0.0772,Positive,Other
+693,BJP's skill development programs helping Delhi's unemployment,bjps skill development programs helping delhis unemployment,2025-03-06 14:30:09.397766,-0.1779,Negative,BJP
+694,BJP's infrastructure projects have reduced traffic in Delhi,bjps infrastructure projects have reduced traffic in delhi,2025-03-07 14:30:09.397766,0.0,Neutral,BJP
+695,BJP's infrastructure projects have reduced traffic in Delhi,bjps infrastructure projects have reduced traffic in delhi,2025-03-09 14:30:09.397766,0.0,Neutral,BJP
+696,BJP promises more smart classrooms in Delhi schools #DelhiEducation,bjp promises more smart classrooms in delhi schools,2025-03-13 14:30:09.397766,0.6801,Positive,BJP
+697,Free healthcare services in Delhi need improvement,free healthcare services in delhi need improvement,2025-03-18 14:30:09.397766,0.743,Positive,Other
+698,BJP promises to solve Delhi's water crisis,bjp promises to solve delhis water crisis,2025-03-21 14:30:09.397766,-0.1779,Negative,BJP
+699,Need stronger measures to combat Delhi's pollution crisis,need stronger measures to combat delhis pollution crisis,2025-03-23 14:30:09.397766,-0.5994,Negative,Other
+700,24x7 water supply still a dream in many Delhi areas,x water supply still a dream in many delhi areas,2025-03-18 14:30:09.397766,0.25,Positive,Other
